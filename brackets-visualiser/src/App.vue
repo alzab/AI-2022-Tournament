@@ -11,6 +11,9 @@ export default {
   name: 'App',
   components: {
     DrawVis
+  },
+  created() {
+    document.title = process.env.VUE_APP_TITLE;
   }
 }
 </script>
