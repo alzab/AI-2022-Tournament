@@ -3,7 +3,7 @@
 In this repository we reveal the complete *Cachex* tournament results. As presented in the final lecture, congratulations to our champions ```slips_and_falls```, and runners-up ```jarvis```!
 
 ### Brackets visualisation
-See a visualisation of the final brackets [here](https://alzab.github.io/AI-2022-Tournament/)! This has only been tested on Chrome, so try that if you have issues with another browser (e.g. Safari).
+See a visualisation of the final brackets [here](https://alzab.github.io/AI-2022-Tournament/)! Mostly tested on Chrome, so try that if you have issues with another browser. If you have a smaller screen it could also help to zoom out if you don't like horizontal scrolling.
 
 ### Tournament structure
 This was a single-elimination tournament with **7 rounds** total. The draw itself was randomised after qualification of exactly 128 teams. Each match between two teams consisted of a minimum four games as follows:
