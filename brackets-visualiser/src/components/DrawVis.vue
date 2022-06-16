@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div v-if="loading === false">
     <b-form-slider :value="roundShowRange" @slide="slide" :range="true" :max="roundMax"></b-form-slider>
     <p>Visualising rounds: {{ roundShowRange }}</p>
     <div id="bracket-container">
@@ -8,16 +8,20 @@
           {{ player.name }}
         </template>
         <template #player-extension-bottom="{ match }">
-          <a :href="match.outputDir">{{ match.results }}</a>
+          <a :href="publicResultsPath + match.outputDir">{{ match.results }}</a>
         </template>
       </bracket>
+    </div>
+  </div>
+  <div v-else>
+    <div class="text-center">
+      <b-spinner variant="primary"></b-spinner>
     </div>
   </div>
 </template>
 
 <script>
 import Bracket from "vue-tournament-bracket";
-import results from "../results.json";
 
 export default {
   name: 'DrawVis',
@@ -27,7 +31,7 @@ export default {
   computed: {
     rounds() {
       const [start, end] = this.roundShowRange;
-      const clampedResults = results.map((round, round_idx) => {
+      const clampedResults = this.results.map((round, round_idx) => {
         if (round_idx < end) {
           return round;
         } else {
@@ -53,10 +57,21 @@ export default {
       return clampedResults.slice(start, this.roundMax);
     },
   },
+  async created() {
+    const response = await fetch(process.env.VUE_APP_PUBLIC_RESULTS_JSON);
+    this.results = await response.json();
+    
+    this.roundMax = this.results.length;
+    this.roundShowRange = [0, this.results.length];
+    this.loading = false;
+  },
   data () {
     return {
-      roundMax: results.length,
-      roundShowRange: [0, results.length]
+      loading: true,
+      results: [],
+      roundMax: 0,
+      roundShowRange: [0, 0],
+      publicResultsPath: process.env.VUE_APP_PUBLIC_RESULTS_ROOT
     }
   },
   methods: {
