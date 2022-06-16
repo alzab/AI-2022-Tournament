@@ -2,7 +2,7 @@
 
 In this repository we reveal the complete *Cachex* tournament results. As presented in the final lecture, congratulations to our champions ```slips_and_falls```, and runners-up ```jarvis```!
 
-## Brackets visualisation
+### Brackets visualisation
 See a visualisation of the final brackets [here](https://alzab.github.io/AI-2022-Tournament/)! This has only been tested on Chrome, so try that if you have issues with another browser (e.g. Safari).
 
 ### Tournament structure
