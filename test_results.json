@@ -1,0 +1,1808 @@
+[
+    {
+        "games": [
+            {
+                "player1": {
+                    "id": "br4h",
+                    "name": "br4h",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "Random_Group_17",
+                    "name": "Random_Group_17",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-00",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "random_group_1",
+                    "name": "random_group_1",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Nocom",
+                    "name": "Nocom",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-01",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "AI_Ace",
+                    "name": "AI_Ace",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "DrunkenMonkeys",
+                    "name": "DrunkenMonkeys",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-02",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Involution",
+                    "name": "Involution",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "CheYouCheHang",
+                    "name": "CheYouCheHang",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-03",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Genshin",
+                    "name": "Genshin",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "_7k7k",
+                    "name": "_7k7k",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-04",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "metaverse",
+                    "name": "metaverse",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "mewmewhammer",
+                    "name": "mewmewhammer",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-05",
+                "results": "2 - 0 - 2"
+            },
+            {
+                "player1": {
+                    "id": "iChing",
+                    "name": "iChing",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "CheetCode",
+                    "name": "CheetCode",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-06",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Random_Group_12",
+                    "name": "Random_Group_12",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "slips_and_falls",
+                    "name": "slips_and_falls",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-07",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "eggdog",
+                    "name": "eggdog",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "emotation_damage",
+                    "name": "emotation_damage",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-08",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Augustian",
+                    "name": "Augustian",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "Ouroboros",
+                    "name": "Ouroboros",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-09",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "squidfam",
+                    "name": "squidfam",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "team_CC",
+                    "name": "team_CC",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-10",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "team349",
+                    "name": "team349",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "FriendlyAI",
+                    "name": "FriendlyAI",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-11",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Ultron",
+                    "name": "Ultron",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "New_Folder_2",
+                    "name": "New_Folder_2",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-12",
+                "results": "3 - 1 - 0"
+            },
+            {
+                "player1": {
+                    "id": "teamZ",
+                    "name": "teamZ",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Team_JP",
+                    "name": "Team_JP",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-13",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "UhhYesDefinitelyAbsolutely",
+                    "name": "UhhYesDefinitelyAbsolutely",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Team_QY",
+                    "name": "Team_QY",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-14",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Hexagone",
+                    "name": "Hexagone",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "pistAIchios",
+                    "name": "pistAIchios",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-15",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Genesis",
+                    "name": "Genesis",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "BAD_GATEWAY",
+                    "name": "BAD_GATEWAY",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-16",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "AIFTB",
+                    "name": "AIFTB",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Team_PT",
+                    "name": "Team_PT",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-17",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "yep_code",
+                    "name": "yep_code",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "Team_CJ",
+                    "name": "Team_CJ",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-18",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "BaiLan",
+                    "name": "BaiLan",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "if_else",
+                    "name": "if_else",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-19",
+                "results": "3 - 1 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Steins_Gate",
+                    "name": "Steins_Gate",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "alphaGo",
+                    "name": "alphaGo",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-20",
+                "results": "0 - 3 - 1"
+            },
+            {
+                "player1": {
+                    "id": "ai_de_god",
+                    "name": "ai_de_god",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "perth_programming_pals",
+                    "name": "perth_programming_pals",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-21",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "The_Barninators",
+                    "name": "The_Barninators",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "_gpt4000",
+                    "name": "_gpt4000",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-22",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "TY_next",
+                    "name": "TY_next",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "Random_Group_7",
+                    "name": "Random_Group_7",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-23",
+                "results": "3 - 5 - 0"
+            },
+            {
+                "player1": {
+                    "id": "disappointment",
+                    "name": "disappointment",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "AI_IS_FUN",
+                    "name": "AI_IS_FUN",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-24",
+                "results": "3 - 1 - 0"
+            },
+            {
+                "player1": {
+                    "id": "manually_automated",
+                    "name": "manually_automated",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Random_Group_9",
+                    "name": "Random_Group_9",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-25",
+                "results": "3 - 1 - 0"
+            },
+            {
+                "player1": {
+                    "id": "_403_Forbidden",
+                    "name": "_403_Forbidden",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "GG_JGDIFF",
+                    "name": "GG_JGDIFF",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-26",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Team_CM",
+                    "name": "Team_CM",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "sf_ap",
+                    "name": "sf_ap",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-27",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "TBD",
+                    "name": "TBD",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "YUKI_N",
+                    "name": "YUKI_N",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-28",
+                "results": "6 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "DarkSouls_AI",
+                    "name": "DarkSouls_AI",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Dashul",
+                    "name": "Dashul",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-29",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "N_B_",
+                    "name": "N_B_",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "syntaxError",
+                    "name": "syntaxError",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-30",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Random_Group_21",
+                    "name": "Random_Group_21",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "Libra",
+                    "name": "Libra",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-31",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "twin_to_win",
+                    "name": "twin_to_win",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "emmm",
+                    "name": "emmm",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-32",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "jarvis",
+                    "name": "jarvis",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "leckie_bot",
+                    "name": "leckie_bot",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-33",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "skynet_2030",
+                    "name": "skynet_2030",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "eros_ramAzzottI",
+                    "name": "eros_ramAzzottI",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-34",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Elden_Ring",
+                    "name": "Elden_Ring",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "absr",
+                    "name": "absr",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-35",
+                "results": "3 - 1 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Team_RT",
+                    "name": "Team_RT",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "group_h1",
+                    "name": "group_h1",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-36",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "oligey",
+                    "name": "oligey",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "_404_NOT_FOUND",
+                    "name": "_404_NOT_FOUND",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-37",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Random_Group_19",
+                    "name": "Random_Group_19",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "haiyaa",
+                    "name": "haiyaa",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-38",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "_b99",
+                    "name": "_b99",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "hungry_jacks",
+                    "name": "hungry_jacks",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-39",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "X_Gorithm",
+                    "name": "X_Gorithm",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "EDRAAK",
+                    "name": "EDRAAK",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-40",
+                "results": "6 - 7 - 0"
+            },
+            {
+                "player1": {
+                    "id": "vaguely_intelligent",
+                    "name": "vaguely_intelligent",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Random_Group_13",
+                    "name": "Random_Group_13",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-41",
+                "results": "6 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Random_Group_4",
+                    "name": "Random_Group_4",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "random_group_18",
+                    "name": "random_group_18",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-42",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "OYSH",
+                    "name": "OYSH",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "Ava",
+                    "name": "Ava",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-43",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "something_generic",
+                    "name": "something_generic",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "Random_Group_3",
+                    "name": "Random_Group_3",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-44",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "T_800",
+                    "name": "T_800",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "team_ion",
+                    "name": "team_ion",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-45",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "we_hate_windows",
+                    "name": "we_hate_windows",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "lost_ai",
+                    "name": "lost_ai",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-46",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "WALL_E",
+                    "name": "WALL_E",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "ELDEN_KING",
+                    "name": "ELDEN_KING",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-47",
+                "results": "2 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "ANZ",
+                    "name": "ANZ",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "_933",
+                    "name": "_933",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-48",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "tenuOS",
+                    "name": "tenuOS",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "donkeyBrain",
+                    "name": "donkeyBrain",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-49",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Lincoln_Eric",
+                    "name": "Lincoln_Eric",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "nothing_in_particular",
+                    "name": "nothing_in_particular",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-50",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "C_SQUARED",
+                    "name": "C_SQUARED",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "alcos_inc",
+                    "name": "alcos_inc",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-51",
+                "results": "6 - 7 - 0"
+            },
+            {
+                "player1": {
+                    "id": "yicheng_yilin",
+                    "name": "yicheng_yilin",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "team_HT",
+                    "name": "team_HT",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-52",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "_113P",
+                    "name": "_113P",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "comet",
+                    "name": "comet",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-53",
+                "results": "2 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Spicy_Banana",
+                    "name": "Spicy_Banana",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "KaiBai",
+                    "name": "KaiBai",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-54",
+                "results": "3 - 5 - 0"
+            },
+            {
+                "player1": {
+                    "id": "pygame",
+                    "name": "pygame",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "BETA_RUN",
+                    "name": "BETA_RUN",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-55",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "we_have_no_idea",
+                    "name": "we_have_no_idea",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Random_Group_6",
+                    "name": "Random_Group_6",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-56",
+                "results": "3 - 1 - 0"
+            },
+            {
+                "player1": {
+                    "id": "random_group_14",
+                    "name": "random_group_14",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "natural_intelligence_superiority",
+                    "name": "natural_intelligence_superiority",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-57",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Random_Group_16",
+                    "name": "Random_Group_16",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "artificial_unintelligence",
+                    "name": "artificial_unintelligence",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-58",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "random_group_22",
+                    "name": "random_group_22",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "range",
+                    "name": "range",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-59",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "bad_at_AI",
+                    "name": "bad_at_AI",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Random_Group_28",
+                    "name": "Random_Group_28",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-60",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Artificial_Incompetence",
+                    "name": "Artificial_Incompetence",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "Team_Joshua_s",
+                    "name": "Team_Joshua_s",
+                    "winner": true
+                },
+                "outputDir": "round-1/match-61",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Raymoni",
+                    "name": "Raymoni",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "WO_AI_NI",
+                    "name": "WO_AI_NI",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-62",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "irrationalAgents",
+                    "name": "irrationalAgents",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Powerpuff_Girls",
+                    "name": "Powerpuff_Girls",
+                    "winner": false
+                },
+                "outputDir": "round-1/match-63",
+                "results": "4 - 0 - 0"
+            }
+        ]
+    },
+    {
+        "games": [
+            {
+                "player1": {
+                    "id": "Random_Group_17",
+                    "name": "Random_Group_17",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "random_group_1",
+                    "name": "random_group_1",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-00",
+                "results": "6 - 7 - 0"
+            },
+            {
+                "player1": {
+                    "id": "DrunkenMonkeys",
+                    "name": "DrunkenMonkeys",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "Involution",
+                    "name": "Involution",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-01",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "_7k7k",
+                    "name": "_7k7k",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "metaverse",
+                    "name": "metaverse",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-02",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "iChing",
+                    "name": "iChing",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "slips_and_falls",
+                    "name": "slips_and_falls",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-03",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "emotation_damage",
+                    "name": "emotation_damage",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "Ouroboros",
+                    "name": "Ouroboros",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-04",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "squidfam",
+                    "name": "squidfam",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "team349",
+                    "name": "team349",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-05",
+                "results": "3 - 1 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Ultron",
+                    "name": "Ultron",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "teamZ",
+                    "name": "teamZ",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-06",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "UhhYesDefinitelyAbsolutely",
+                    "name": "UhhYesDefinitelyAbsolutely",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "pistAIchios",
+                    "name": "pistAIchios",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-07",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "BAD_GATEWAY",
+                    "name": "BAD_GATEWAY",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "AIFTB",
+                    "name": "AIFTB",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-08",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Team_CJ",
+                    "name": "Team_CJ",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "BaiLan",
+                    "name": "BaiLan",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-09",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "alphaGo",
+                    "name": "alphaGo",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "perth_programming_pals",
+                    "name": "perth_programming_pals",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-10",
+                "results": "5 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "The_Barninators",
+                    "name": "The_Barninators",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Random_Group_7",
+                    "name": "Random_Group_7",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-11",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "disappointment",
+                    "name": "disappointment",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "manually_automated",
+                    "name": "manually_automated",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-12",
+                "results": "6 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "_403_Forbidden",
+                    "name": "_403_Forbidden",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Team_CM",
+                    "name": "Team_CM",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-13",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "TBD",
+                    "name": "TBD",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "DarkSouls_AI",
+                    "name": "DarkSouls_AI",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-14",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "syntaxError",
+                    "name": "syntaxError",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "Libra",
+                    "name": "Libra",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-15",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "emmm",
+                    "name": "emmm",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "jarvis",
+                    "name": "jarvis",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-16",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "eros_ramAzzottI",
+                    "name": "eros_ramAzzottI",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Elden_Ring",
+                    "name": "Elden_Ring",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-17",
+                "results": "3 - 1 - 0"
+            },
+            {
+                "player1": {
+                    "id": "group_h1",
+                    "name": "group_h1",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "oligey",
+                    "name": "oligey",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-18",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "haiyaa",
+                    "name": "haiyaa",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "hungry_jacks",
+                    "name": "hungry_jacks",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-19",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "EDRAAK",
+                    "name": "EDRAAK",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "vaguely_intelligent",
+                    "name": "vaguely_intelligent",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-20",
+                "results": "5 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "random_group_18",
+                    "name": "random_group_18",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "Ava",
+                    "name": "Ava",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-21",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Random_Group_3",
+                    "name": "Random_Group_3",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "T_800",
+                    "name": "T_800",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-22",
+                "results": "4 - 2 - 0"
+            },
+            {
+                "player1": {
+                    "id": "lost_ai",
+                    "name": "lost_ai",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "ELDEN_KING",
+                    "name": "ELDEN_KING",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-23",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "ANZ",
+                    "name": "ANZ",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "tenuOS",
+                    "name": "tenuOS",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-24",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "nothing_in_particular",
+                    "name": "nothing_in_particular",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "alcos_inc",
+                    "name": "alcos_inc",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-25",
+                "results": "4 - 2 - 0"
+            },
+            {
+                "player1": {
+                    "id": "team_HT",
+                    "name": "team_HT",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "comet",
+                    "name": "comet",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-26",
+                "results": "3 - 1 - 0"
+            },
+            {
+                "player1": {
+                    "id": "KaiBai",
+                    "name": "KaiBai",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "BETA_RUN",
+                    "name": "BETA_RUN",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-27",
+                "results": "3 - 1 - 0"
+            },
+            {
+                "player1": {
+                    "id": "we_have_no_idea",
+                    "name": "we_have_no_idea",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "natural_intelligence_superiority",
+                    "name": "natural_intelligence_superiority",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-28",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "artificial_unintelligence",
+                    "name": "artificial_unintelligence",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "range",
+                    "name": "range",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-29",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "bad_at_AI",
+                    "name": "bad_at_AI",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Team_Joshua_s",
+                    "name": "Team_Joshua_s",
+                    "winner": false
+                },
+                "outputDir": "round-2/match-30",
+                "results": "3 - 1 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Raymoni",
+                    "name": "Raymoni",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "irrationalAgents",
+                    "name": "irrationalAgents",
+                    "winner": true
+                },
+                "outputDir": "round-2/match-31",
+                "results": "0 - 4 - 0"
+            }
+        ]
+    },
+    {
+        "games": [
+            {
+                "player1": {
+                    "id": "random_group_1",
+                    "name": "random_group_1",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "Involution",
+                    "name": "Involution",
+                    "winner": true
+                },
+                "outputDir": "round-3/match-00",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "metaverse",
+                    "name": "metaverse",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "slips_and_falls",
+                    "name": "slips_and_falls",
+                    "winner": true
+                },
+                "outputDir": "round-3/match-01",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Ouroboros",
+                    "name": "Ouroboros",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "squidfam",
+                    "name": "squidfam",
+                    "winner": false
+                },
+                "outputDir": "round-3/match-02",
+                "results": "3 - 1 - 0"
+            },
+            {
+                "player1": {
+                    "id": "teamZ",
+                    "name": "teamZ",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "UhhYesDefinitelyAbsolutely",
+                    "name": "UhhYesDefinitelyAbsolutely",
+                    "winner": true
+                },
+                "outputDir": "round-3/match-03",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "AIFTB",
+                    "name": "AIFTB",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "Team_CJ",
+                    "name": "Team_CJ",
+                    "winner": true
+                },
+                "outputDir": "round-3/match-04",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "alphaGo",
+                    "name": "alphaGo",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "The_Barninators",
+                    "name": "The_Barninators",
+                    "winner": true
+                },
+                "outputDir": "round-3/match-05",
+                "results": "0 - 2 - 2"
+            },
+            {
+                "player1": {
+                    "id": "disappointment",
+                    "name": "disappointment",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "_403_Forbidden",
+                    "name": "_403_Forbidden",
+                    "winner": true
+                },
+                "outputDir": "round-3/match-06",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "DarkSouls_AI",
+                    "name": "DarkSouls_AI",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Libra",
+                    "name": "Libra",
+                    "winner": false
+                },
+                "outputDir": "round-3/match-07",
+                "results": "3 - 1 - 0"
+            },
+            {
+                "player1": {
+                    "id": "jarvis",
+                    "name": "jarvis",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "eros_ramAzzottI",
+                    "name": "eros_ramAzzottI",
+                    "winner": false
+                },
+                "outputDir": "round-3/match-08",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "oligey",
+                    "name": "oligey",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "hungry_jacks",
+                    "name": "hungry_jacks",
+                    "winner": true
+                },
+                "outputDir": "round-3/match-09",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "EDRAAK",
+                    "name": "EDRAAK",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "Ava",
+                    "name": "Ava",
+                    "winner": true
+                },
+                "outputDir": "round-3/match-10",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Random_Group_3",
+                    "name": "Random_Group_3",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "ELDEN_KING",
+                    "name": "ELDEN_KING",
+                    "winner": true
+                },
+                "outputDir": "round-3/match-11",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "tenuOS",
+                    "name": "tenuOS",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "nothing_in_particular",
+                    "name": "nothing_in_particular",
+                    "winner": true
+                },
+                "outputDir": "round-3/match-12",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "team_HT",
+                    "name": "team_HT",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "KaiBai",
+                    "name": "KaiBai",
+                    "winner": true
+                },
+                "outputDir": "round-3/match-13",
+                "results": "1 - 3 - 1"
+            },
+            {
+                "player1": {
+                    "id": "we_have_no_idea",
+                    "name": "we_have_no_idea",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "artificial_unintelligence",
+                    "name": "artificial_unintelligence",
+                    "winner": false
+                },
+                "outputDir": "round-3/match-14",
+                "results": "4 - 2 - 0"
+            },
+            {
+                "player1": {
+                    "id": "bad_at_AI",
+                    "name": "bad_at_AI",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "irrationalAgents",
+                    "name": "irrationalAgents",
+                    "winner": true
+                },
+                "outputDir": "round-3/match-15",
+                "results": "1 - 3 - 0"
+            }
+        ]
+    },
+    {
+        "games": [
+            {
+                "player1": {
+                    "id": "Involution",
+                    "name": "Involution",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "slips_and_falls",
+                    "name": "slips_and_falls",
+                    "winner": true
+                },
+                "outputDir": "round-4/match-00",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Ouroboros",
+                    "name": "Ouroboros",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "UhhYesDefinitelyAbsolutely",
+                    "name": "UhhYesDefinitelyAbsolutely",
+                    "winner": false
+                },
+                "outputDir": "round-4/match-01",
+                "results": "5 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Team_CJ",
+                    "name": "Team_CJ",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "The_Barninators",
+                    "name": "The_Barninators",
+                    "winner": false
+                },
+                "outputDir": "round-4/match-02",
+                "results": "3 - 1 - 0"
+            },
+            {
+                "player1": {
+                    "id": "_403_Forbidden",
+                    "name": "_403_Forbidden",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "DarkSouls_AI",
+                    "name": "DarkSouls_AI",
+                    "winner": true
+                },
+                "outputDir": "round-4/match-03",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "jarvis",
+                    "name": "jarvis",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "hungry_jacks",
+                    "name": "hungry_jacks",
+                    "winner": false
+                },
+                "outputDir": "round-4/match-04",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "Ava",
+                    "name": "Ava",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "ELDEN_KING",
+                    "name": "ELDEN_KING",
+                    "winner": true
+                },
+                "outputDir": "round-4/match-05",
+                "results": "4 - 6 - 0"
+            },
+            {
+                "player1": {
+                    "id": "nothing_in_particular",
+                    "name": "nothing_in_particular",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "KaiBai",
+                    "name": "KaiBai",
+                    "winner": true
+                },
+                "outputDir": "round-4/match-06",
+                "results": "0 - 4 - 0"
+            },
+            {
+                "player1": {
+                    "id": "we_have_no_idea",
+                    "name": "we_have_no_idea",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "irrationalAgents",
+                    "name": "irrationalAgents",
+                    "winner": false
+                },
+                "outputDir": "round-4/match-07",
+                "results": "3 - 1 - 0"
+            }
+        ]
+    },
+    {
+        "games": [
+            {
+                "player1": {
+                    "id": "slips_and_falls",
+                    "name": "slips_and_falls",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "Ouroboros",
+                    "name": "Ouroboros",
+                    "winner": false
+                },
+                "outputDir": "round-5/match-00",
+                "results": "3 - 1 - 1"
+            },
+            {
+                "player1": {
+                    "id": "Team_CJ",
+                    "name": "Team_CJ",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "DarkSouls_AI",
+                    "name": "DarkSouls_AI",
+                    "winner": true
+                },
+                "outputDir": "round-5/match-01",
+                "results": "1 - 3 - 0"
+            },
+            {
+                "player1": {
+                    "id": "jarvis",
+                    "name": "jarvis",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "ELDEN_KING",
+                    "name": "ELDEN_KING",
+                    "winner": false
+                },
+                "outputDir": "round-5/match-02",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "KaiBai",
+                    "name": "KaiBai",
+                    "winner": false
+                },
+                "player2": {
+                    "id": "we_have_no_idea",
+                    "name": "we_have_no_idea",
+                    "winner": true
+                },
+                "outputDir": "round-5/match-03",
+                "results": "0 - 4 - 0"
+            }
+        ]
+    },
+    {
+        "games": [
+            {
+                "player1": {
+                    "id": "slips_and_falls",
+                    "name": "slips_and_falls",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "DarkSouls_AI",
+                    "name": "DarkSouls_AI",
+                    "winner": false
+                },
+                "outputDir": "round-6/match-00",
+                "results": "4 - 0 - 0"
+            },
+            {
+                "player1": {
+                    "id": "jarvis",
+                    "name": "jarvis",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "we_have_no_idea",
+                    "name": "we_have_no_idea",
+                    "winner": false
+                },
+                "outputDir": "round-6/match-01",
+                "results": "4 - 2 - 1"
+            }
+        ]
+    },
+    {
+        "games": [
+            {
+                "player1": {
+                    "id": "slips_and_falls",
+                    "name": "slips_and_falls",
+                    "winner": true
+                },
+                "player2": {
+                    "id": "jarvis",
+                    "name": "jarvis",
+                    "winner": false
+                },
+                "outputDir": "round-7/match-00",
+                "results": "4 - 0 - 0"
+            }
+        ]
+    }
+]
