@@ -1,0 +1,21 @@
+==================== Cachex tournament - Round 1, Match 30 =====================
+=========================== 'N_B_' VS 'syntaxError' ============================
+=> Game 1
+=> Params: n: 8, p1: 'N_B_' (red), p2: 'syntaxError' (blue)
+error: red: list.remove(x): x not in list
+=> Winner: syntaxError
+=> Game 2
+=> Params: n: 8, p1: 'syntaxError' (red), p2: 'N_B_' (blue)
+=> Winner: syntaxError
+=> Game 3
+=> Params: n: 9, p1: 'N_B_' (red), p2: 'syntaxError' (blue)
+error: red: list.remove(x): x not in list
+=> Winner: syntaxError
+=> Game 4
+=> Params: n: 9, p1: 'syntaxError' (red), p2: 'N_B_' (blue)
+=> Winner: syntaxError
+=============================== Results summary ================================
+=> Wins 'N_B_'        : 0
+=> Wins 'syntaxError' : 4
+=> Total draws        : 0
+=> Overall winner     : syntaxError

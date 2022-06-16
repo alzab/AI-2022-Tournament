@@ -1,0 +1,35 @@
+==================== Cachex tournament - Round 2, Match 10 =====================
+==================== 'alphaGo' VS 'perth_programming_pals' =====================
+=> Game 1
+=> Params: n: 8, p1: 'alphaGo' (red), p2: 'perth_programming_pals' (blue)
+=> Winner: perth_programming_pals
+=> Game 2
+=> Params: n: 8, p1: 'perth_programming_pals' (red), p2: 'alphaGo' (blue)
+=> Winner: perth_programming_pals
+=> Game 3
+=> Params: n: 9, p1: 'alphaGo' (red), p2: 'perth_programming_pals' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: alphaGo
+=> Game 4
+=> Params: n: 9, p1: 'perth_programming_pals' (red), p2: 'alphaGo' (blue)
+error: red: player 1 exceeded available time
+=> Winner: alphaGo
+=> Game t1
+=> Params: n: 7, p1: 'alphaGo' (red), p2: 'perth_programming_pals' (blue)
+=> Winner: perth_programming_pals
+=> Game t2
+=> Params: n: 7, p1: 'perth_programming_pals' (red), p2: 'alphaGo' (blue)
+=> Winner: alphaGo
+=> Game t3
+=> Params: n: 10, p1: 'alphaGo' (red), p2: 'perth_programming_pals' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: alphaGo
+=> Game t4
+=> Params: n: 10, p1: 'perth_programming_pals' (red), p2: 'alphaGo' (blue)
+error: red: player 1 exceeded available time
+=> Winner: alphaGo
+=============================== Results summary ================================
+=> Wins 'alphaGo'                : 5
+=> Wins 'perth_programming_pals' : 3
+=> Total draws                   : 0
+=> Overall winner                : alphaGo

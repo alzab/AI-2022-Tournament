@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 15 =====================
+========================= 'Hexagone' VS 'pistAIchios' ==========================
+=> Game 1
+=> Params: n: 8, p1: 'Hexagone' (red), p2: 'pistAIchios' (blue)
+=> Winner: Hexagone
+=> Game 2
+=> Params: n: 8, p1: 'pistAIchios' (red), p2: 'Hexagone' (blue)
+=> Winner: pistAIchios
+=> Game 3
+=> Params: n: 9, p1: 'Hexagone' (red), p2: 'pistAIchios' (blue)
+=> Winner: pistAIchios
+=> Game 4
+=> Params: n: 9, p1: 'pistAIchios' (red), p2: 'Hexagone' (blue)
+=> Winner: pistAIchios
+=============================== Results summary ================================
+=> Wins 'Hexagone'    : 1
+=> Wins 'pistAIchios' : 3
+=> Total draws        : 0
+=> Overall winner     : pistAIchios

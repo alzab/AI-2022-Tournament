@@ -1,0 +1,32 @@
+==================== Cachex tournament - Round 2, Match 20 =====================
+====================== 'EDRAAK' VS 'vaguely_intelligent' =======================
+=> Game 1
+=> Params: n: 8, p1: 'EDRAAK' (red), p2: 'vaguely_intelligent' (blue)
+=> Winner: EDRAAK
+=> Game 2
+=> Params: n: 8, p1: 'vaguely_intelligent' (red), p2: 'EDRAAK' (blue)
+=> Winner: vaguely_intelligent
+=> Game 3
+=> Params: n: 9, p1: 'EDRAAK' (red), p2: 'vaguely_intelligent' (blue)
+=> Winner: EDRAAK
+=> Game 4
+=> Params: n: 9, p1: 'vaguely_intelligent' (red), p2: 'EDRAAK' (blue)
+=> Winner: vaguely_intelligent
+=> Game t1
+=> Params: n: 7, p1: 'EDRAAK' (red), p2: 'vaguely_intelligent' (blue)
+=> Winner: EDRAAK
+=> Game t2
+=> Params: n: 7, p1: 'vaguely_intelligent' (red), p2: 'EDRAAK' (blue)
+=> Winner: vaguely_intelligent
+=> Game t3
+=> Params: n: 10, p1: 'EDRAAK' (red), p2: 'vaguely_intelligent' (blue)
+=> Winner: EDRAAK
+=> Game t4
+=> Params: n: 10, p1: 'vaguely_intelligent' (red), p2: 'EDRAAK' (blue)
+error: red: player 1 exceeded available time
+=> Winner: EDRAAK
+=============================== Results summary ================================
+=> Wins 'EDRAAK'              : 5
+=> Wins 'vaguely_intelligent' : 3
+=> Total draws                : 0
+=> Overall winner             : EDRAAK

@@ -1,0 +1,20 @@
+==================== Cachex tournament - Round 2, Match 18 =====================
+============================ 'group_h1' VS 'oligey' ============================
+=> Game 1
+=> Params: n: 8, p1: 'group_h1' (red), p2: 'oligey' (blue)
+=> Winner: group_h1
+=> Game 2
+=> Params: n: 8, p1: 'oligey' (red), p2: 'group_h1' (blue)
+=> Winner: oligey
+=> Game 3
+=> Params: n: 9, p1: 'group_h1' (red), p2: 'oligey' (blue)
+=> Winner: oligey
+=> Game 4
+=> Params: n: 9, p1: 'oligey' (red), p2: 'group_h1' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: oligey
+=============================== Results summary ================================
+=> Wins 'group_h1' : 1
+=> Wins 'oligey'   : 3
+=> Total draws     : 0
+=> Overall winner  : oligey

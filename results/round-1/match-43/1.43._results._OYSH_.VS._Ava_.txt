@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 43 =====================
+=============================== 'OYSH' VS 'Ava' ================================
+=> Game 1
+=> Params: n: 8, p1: 'OYSH' (red), p2: 'Ava' (blue)
+=> Winner: Ava
+=> Game 2
+=> Params: n: 8, p1: 'Ava' (red), p2: 'OYSH' (blue)
+=> Winner: Ava
+=> Game 3
+=> Params: n: 9, p1: 'OYSH' (red), p2: 'Ava' (blue)
+=> Winner: Ava
+=> Game 4
+=> Params: n: 9, p1: 'Ava' (red), p2: 'OYSH' (blue)
+=> Winner: Ava
+=============================== Results summary ================================
+=> Wins 'OYSH'    : 0
+=> Wins 'Ava'     : 4
+=> Total draws    : 0
+=> Overall winner : Ava

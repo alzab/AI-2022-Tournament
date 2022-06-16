@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 44 =====================
+=================== 'something_generic' VS 'Random_Group_3' ====================
+=> Game 1
+=> Params: n: 8, p1: 'something_generic' (red), p2: 'Random_Group_3' (blue)
+=> Winner: Random_Group_3
+=> Game 2
+=> Params: n: 8, p1: 'Random_Group_3' (red), p2: 'something_generic' (blue)
+=> Winner: Random_Group_3
+=> Game 3
+=> Params: n: 9, p1: 'something_generic' (red), p2: 'Random_Group_3' (blue)
+=> Winner: Random_Group_3
+=> Game 4
+=> Params: n: 9, p1: 'Random_Group_3' (red), p2: 'something_generic' (blue)
+=> Winner: Random_Group_3
+=============================== Results summary ================================
+=> Wins 'something_generic' : 0
+=> Wins 'Random_Group_3'    : 4
+=> Total draws              : 0
+=> Overall winner           : Random_Group_3

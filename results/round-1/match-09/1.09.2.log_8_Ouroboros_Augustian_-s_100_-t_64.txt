@@ -1,0 +1,32 @@
+turn 1: red: PLACE token in cell (0, 5); dt:9.108000000007666e-06
+turn 2: blue: STEAL first move; dt:8.85600000000153e-06
+turn 3: red: PLACE token in cell (7, 1); dt:0.00010746799999999945
+turn 4: blue: PLACE token in cell (4, 4); dt:1.0279000000001925e-05
+turn 5: red: PLACE token in cell (0, 6); dt:9.974200000001376e-05
+turn 6: blue: PLACE token in cell (5, 3); dt:0.3192213530000001
+turn 7: red: PLACE token in cell (4, 3); dt:0.1673581260000001
+turn 8: blue: PLACE token in cell (5, 2); dt:0.45409267399999986
+turn 9: red: PLACE token in cell (6, 2); dt:0.13393244599999998
+turn 10: blue: PLACE token in cell (5, 3); dt:0.37213069099999996
+turn 11: red: PLACE token in cell (5, 2); dt:0.5299726690000002
+turn 12: blue: PLACE token in cell (6, 1); dt:0.1488669680000001
+turn 13: red: PLACE token in cell (5, 4); dt:0.11127173599999995
+turn 14: blue: PLACE token in cell (6, 0); dt:0.43853733100000003
+turn 15: red: PLACE token in cell (2, 5); dt:4.5506077430000005
+turn 16: blue: PLACE token in cell (7, 0); dt:0.46135540400000075
+turn 17: red: PLACE token in cell (6, 4); dt:2.7819694979999996
+turn 18: blue: PLACE token in cell (7, 4); dt:0.22367167300000013
+turn 19: red: PLACE token in cell (5, 3); dt:4.933492840000001
+turn 20: blue: PLACE token in cell (7, 3); dt:0.4233936190000023
+turn 21: red: PLACE token in cell (6, 3); dt:3.813511979000001
+turn 22: blue: PLACE token in cell (7, 2); dt:0.1724643350000008
+turn 23: red: PLACE token in cell (6, 2); dt:0.6539232730000002
+turn 24: blue: PLACE token in cell (7, 2); dt:0.23558677899999836
+turn 25: red: PLACE token in cell (6, 1); dt:0.6581636639999999
+turn 26: blue: PLACE token in cell (5, 1); dt:0.08737263899999803
+turn 27: red: PLACE token in cell (3, 4); dt:3.697512861
+turn 28: blue: PLACE token in cell (5, 2); dt:1.0140786719999997
+turn 29: red: PLACE token in cell (4, 4); dt:0.7436452819999992
+turn 30: blue: PLACE token in cell (4, 2); dt:0.46430549200000115
+turn 31: red: PLACE token in cell (1, 5); dt:2.0739821370000016
+winner: red

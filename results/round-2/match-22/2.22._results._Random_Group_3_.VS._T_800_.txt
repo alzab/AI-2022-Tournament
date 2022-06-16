@@ -1,0 +1,29 @@
+==================== Cachex tournament - Round 2, Match 22 =====================
+========================= 'Random_Group_3' VS 'T_800' ==========================
+=> Game 1
+=> Params: n: 8, p1: 'Random_Group_3' (red), p2: 'T_800' (blue)
+=> Winner: T_800
+=> Game 2
+=> Params: n: 8, p1: 'T_800' (red), p2: 'Random_Group_3' (blue)
+error: red: illegal action ('PLACE', 1, 4)
+=> Winner: Random_Group_3
+=> Game 3
+=> Params: n: 9, p1: 'Random_Group_3' (red), p2: 'T_800' (blue)
+error: red: player 1 exceeded available time
+=> Winner: T_800
+=> Game 4
+=> Params: n: 9, p1: 'T_800' (red), p2: 'Random_Group_3' (blue)
+error: red: illegal action ('PLACE', 1, 4)
+=> Winner: Random_Group_3
+=> Game t1
+=> Params: n: 7, p1: 'Random_Group_3' (red), p2: 'T_800' (blue)
+=> Winner: Random_Group_3
+=> Game t2
+=> Params: n: 7, p1: 'T_800' (red), p2: 'Random_Group_3' (blue)
+error: red: illegal action ('PLACE', 3, 0)
+=> Winner: Random_Group_3
+=============================== Results summary ================================
+=> Wins 'Random_Group_3' : 4
+=> Wins 'T_800'          : 2
+=> Total draws           : 0
+=> Overall winner        : Random_Group_3

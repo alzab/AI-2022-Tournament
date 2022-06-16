@@ -1,0 +1,53 @@
+==================== Cachex tournament - Round 1, Match 51 =====================
+========================== 'C_SQUARED' VS 'alcos_inc' ==========================
+=> Game 1
+=> Params: n: 8, p1: 'C_SQUARED' (red), p2: 'alcos_inc' (blue)
+error: red: unsupported operand type(s) for +: 'int' and 'str'
+=> Winner: alcos_inc
+=> Game 2
+=> Params: n: 8, p1: 'alcos_inc' (red), p2: 'C_SQUARED' (blue)
+=> Winner: C_SQUARED
+=> Game 3
+=> Params: n: 9, p1: 'C_SQUARED' (red), p2: 'alcos_inc' (blue)
+error: red: unsupported operand type(s) for +: 'int' and 'str'
+=> Winner: alcos_inc
+=> Game 4
+=> Params: n: 9, p1: 'alcos_inc' (red), p2: 'C_SQUARED' (blue)
+=> Winner: C_SQUARED
+=> Game t1
+=> Params: n: 7, p1: 'C_SQUARED' (red), p2: 'alcos_inc' (blue)
+error: red: unsupported operand type(s) for +: 'int' and 'str'
+=> Winner: alcos_inc
+=> Game t2
+=> Params: n: 7, p1: 'alcos_inc' (red), p2: 'C_SQUARED' (blue)
+=> Winner: C_SQUARED
+=> Game t3
+=> Params: n: 10, p1: 'C_SQUARED' (red), p2: 'alcos_inc' (blue)
+error: red: unsupported operand type(s) for +: 'int' and 'str'
+=> Winner: alcos_inc
+=> Game t4
+=> Params: n: 10, p1: 'alcos_inc' (red), p2: 'C_SQUARED' (blue)
+=> Winner: C_SQUARED
+=> Game t5
+=> Params: n: 6, p1: 'C_SQUARED' (red), p2: 'alcos_inc' (blue)
+error: red: unsupported operand type(s) for +: 'int' and 'str'
+=> Winner: alcos_inc
+=> Game t6
+=> Params: n: 6, p1: 'alcos_inc' (red), p2: 'C_SQUARED' (blue)
+=> Winner: C_SQUARED
+=> Game t7
+=> Params: n: 11, p1: 'C_SQUARED' (red), p2: 'alcos_inc' (blue)
+error: red: unsupported operand type(s) for +: 'int' and 'str'
+=> Winner: alcos_inc
+=> Game t8
+=> Params: n: 11, p1: 'alcos_inc' (red), p2: 'C_SQUARED' (blue)
+=> Winner: C_SQUARED
+=> Game t9
+=> Params: n: 5, p1: 'C_SQUARED' (red), p2: 'alcos_inc' (blue)
+error: red: unsupported operand type(s) for +: 'int' and 'str'
+=> Winner: alcos_inc
+=============================== Results summary ================================
+=> Wins 'C_SQUARED' : 6
+=> Wins 'alcos_inc' : 7
+=> Total draws      : 0
+=> Overall winner   : alcos_inc

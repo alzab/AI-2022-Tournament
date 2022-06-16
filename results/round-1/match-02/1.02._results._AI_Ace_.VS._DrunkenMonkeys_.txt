@@ -1,0 +1,21 @@
+==================== Cachex tournament - Round 1, Match 02 =====================
+========================= 'AI_Ace' VS 'DrunkenMonkeys' =========================
+=> Game 1
+=> Params: n: 8, p1: 'AI_Ace' (red), p2: 'DrunkenMonkeys' (blue)
+error: red: tuple index out of range
+=> Winner: DrunkenMonkeys
+=> Game 2
+=> Params: n: 8, p1: 'DrunkenMonkeys' (red), p2: 'AI_Ace' (blue)
+=> Winner: DrunkenMonkeys
+=> Game 3
+=> Params: n: 9, p1: 'AI_Ace' (red), p2: 'DrunkenMonkeys' (blue)
+error: red: tuple index out of range
+=> Winner: DrunkenMonkeys
+=> Game 4
+=> Params: n: 9, p1: 'DrunkenMonkeys' (red), p2: 'AI_Ace' (blue)
+=> Winner: DrunkenMonkeys
+=============================== Results summary ================================
+=> Wins 'AI_Ace'         : 0
+=> Wins 'DrunkenMonkeys' : 4
+=> Total draws           : 0
+=> Overall winner        : DrunkenMonkeys

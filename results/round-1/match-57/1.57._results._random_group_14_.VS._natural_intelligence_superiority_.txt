@@ -1,0 +1,27 @@
+==================== Cachex tournament - Round 1, Match 57 =====================
+=========== 'random_group_14' VS 'natural_intelligence_superiority' ============
+=> Game 1
+=> Params: n: 8, p1: 'random_group_14' (red), p2:
+   'natural_intelligence_superiority' (blue)
+error: red: player 1 exceeded available time
+=> Winner: natural_intelligence_superiority
+=> Game 2
+=> Params: n: 8, p1: 'natural_intelligence_superiority' (red), p2:
+   'random_group_14' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: natural_intelligence_superiority
+=> Game 3
+=> Params: n: 9, p1: 'random_group_14' (red), p2:
+   'natural_intelligence_superiority' (blue)
+error: red: player 1 exceeded available time
+=> Winner: natural_intelligence_superiority
+=> Game 4
+=> Params: n: 9, p1: 'natural_intelligence_superiority' (red), p2:
+   'random_group_14' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: natural_intelligence_superiority
+=============================== Results summary ================================
+=> Wins 'random_group_14'                  : 0
+=> Wins 'natural_intelligence_superiority' : 4
+=> Total draws                             : 0
+=> Overall winner                          : natural_intelligence_superiority

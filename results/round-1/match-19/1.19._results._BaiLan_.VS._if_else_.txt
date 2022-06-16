@@ -1,0 +1,21 @@
+==================== Cachex tournament - Round 1, Match 19 =====================
+============================ 'BaiLan' VS 'if_else' =============================
+=> Game 1
+=> Params: n: 8, p1: 'BaiLan' (red), p2: 'if_else' (blue)
+error: blue: 'NoneType' object has no attribute 'r'
+=> Winner: BaiLan
+=> Game 2
+=> Params: n: 8, p1: 'if_else' (red), p2: 'BaiLan' (blue)
+error: red: 'NoneType' object has no attribute 'r'
+=> Winner: BaiLan
+=> Game 3
+=> Params: n: 9, p1: 'BaiLan' (red), p2: 'if_else' (blue)
+=> Winner: if_else
+=> Game 4
+=> Params: n: 9, p1: 'if_else' (red), p2: 'BaiLan' (blue)
+=> Winner: BaiLan
+=============================== Results summary ================================
+=> Wins 'BaiLan'  : 3
+=> Wins 'if_else' : 1
+=> Total draws    : 0
+=> Overall winner : BaiLan

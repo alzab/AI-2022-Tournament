@@ -1,0 +1,4 @@
+turn 1: red: PLACE token in cell (4, 3); dt:2.0551000000007535e-05
+turn 2: blue: STEAL first move; dt:8.639000000004726e-06
+error: red: getFirstMove() takes 2 positional arguments but 3 were given
+winner: blue

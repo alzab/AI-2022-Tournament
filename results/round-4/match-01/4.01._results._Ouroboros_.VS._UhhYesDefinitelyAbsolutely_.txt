@@ -1,0 +1,32 @@
+==================== Cachex tournament - Round 4, Match 01 =====================
+================= 'Ouroboros' VS 'UhhYesDefinitelyAbsolutely' ==================
+=> Game 1
+=> Params: n: 8, p1: 'Ouroboros' (red), p2: 'UhhYesDefinitelyAbsolutely' (blue)
+error: red: player 1 exceeded available time
+=> Winner: UhhYesDefinitelyAbsolutely
+=> Game 2
+=> Params: n: 8, p1: 'UhhYesDefinitelyAbsolutely' (red), p2: 'Ouroboros' (blue)
+=> Winner: UhhYesDefinitelyAbsolutely
+=> Game 3
+=> Params: n: 9, p1: 'Ouroboros' (red), p2: 'UhhYesDefinitelyAbsolutely' (blue)
+=> Winner: Ouroboros
+=> Game 4
+=> Params: n: 9, p1: 'UhhYesDefinitelyAbsolutely' (red), p2: 'Ouroboros' (blue)
+=> Winner: Ouroboros
+=> Game t1
+=> Params: n: 7, p1: 'Ouroboros' (red), p2: 'UhhYesDefinitelyAbsolutely' (blue)
+=> Winner: Ouroboros
+=> Game t2
+=> Params: n: 7, p1: 'UhhYesDefinitelyAbsolutely' (red), p2: 'Ouroboros' (blue)
+=> Winner: UhhYesDefinitelyAbsolutely
+=> Game t3
+=> Params: n: 10, p1: 'Ouroboros' (red), p2: 'UhhYesDefinitelyAbsolutely' (blue)
+=> Winner: Ouroboros
+=> Game t4
+=> Params: n: 10, p1: 'UhhYesDefinitelyAbsolutely' (red), p2: 'Ouroboros' (blue)
+=> Winner: Ouroboros
+=============================== Results summary ================================
+=> Wins 'Ouroboros'                  : 5
+=> Wins 'UhhYesDefinitelyAbsolutely' : 3
+=> Total draws                       : 0
+=> Overall winner                    : Ouroboros

@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 3, Match 15 =====================
+====================== 'bad_at_AI' VS 'irrationalAgents' =======================
+=> Game 1
+=> Params: n: 8, p1: 'bad_at_AI' (red), p2: 'irrationalAgents' (blue)
+=> Winner: irrationalAgents
+=> Game 2
+=> Params: n: 8, p1: 'irrationalAgents' (red), p2: 'bad_at_AI' (blue)
+=> Winner: bad_at_AI
+=> Game 3
+=> Params: n: 9, p1: 'bad_at_AI' (red), p2: 'irrationalAgents' (blue)
+=> Winner: irrationalAgents
+=> Game 4
+=> Params: n: 9, p1: 'irrationalAgents' (red), p2: 'bad_at_AI' (blue)
+=> Winner: irrationalAgents
+=============================== Results summary ================================
+=> Wins 'bad_at_AI'        : 1
+=> Wins 'irrationalAgents' : 3
+=> Total draws             : 0
+=> Overall winner          : irrationalAgents

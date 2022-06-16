@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 03 =====================
+======================= 'Involution' VS 'CheYouCheHang' ========================
+=> Game 1
+=> Params: n: 8, p1: 'Involution' (red), p2: 'CheYouCheHang' (blue)
+=> Winner: Involution
+=> Game 2
+=> Params: n: 8, p1: 'CheYouCheHang' (red), p2: 'Involution' (blue)
+=> Winner: Involution
+=> Game 3
+=> Params: n: 9, p1: 'Involution' (red), p2: 'CheYouCheHang' (blue)
+=> Winner: Involution
+=> Game 4
+=> Params: n: 9, p1: 'CheYouCheHang' (red), p2: 'Involution' (blue)
+=> Winner: Involution
+=============================== Results summary ================================
+=> Wins 'Involution'    : 4
+=> Wins 'CheYouCheHang' : 0
+=> Total draws          : 0
+=> Overall winner       : Involution

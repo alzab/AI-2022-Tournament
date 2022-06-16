@@ -1,0 +1,37 @@
+==================== Cachex tournament - Round 2, Match 12 =====================
+=================== 'disappointment' VS 'manually_automated' ===================
+=> Game 1
+=> Params: n: 8, p1: 'disappointment' (red), p2: 'manually_automated' (blue)
+=> Winner: manually_automated
+=> Game 2
+=> Params: n: 8, p1: 'manually_automated' (red), p2: 'disappointment' (blue)
+=> Winner: disappointment
+=> Game 3
+=> Params: n: 9, p1: 'disappointment' (red), p2: 'manually_automated' (blue)
+=> Winner: manually_automated
+=> Game 4
+=> Params: n: 9, p1: 'manually_automated' (red), p2: 'disappointment' (blue)
+=> Winner: disappointment
+=> Game t1
+=> Params: n: 7, p1: 'disappointment' (red), p2: 'manually_automated' (blue)
+=> Winner: disappointment
+=> Game t2
+=> Params: n: 7, p1: 'manually_automated' (red), p2: 'disappointment' (blue)
+=> Winner: manually_automated
+=> Game t3
+=> Params: n: 10, p1: 'disappointment' (red), p2: 'manually_automated' (blue)
+=> Winner: manually_automated
+=> Game t4
+=> Params: n: 10, p1: 'manually_automated' (red), p2: 'disappointment' (blue)
+=> Winner: disappointment
+=> Game t5
+=> Params: n: 6, p1: 'disappointment' (red), p2: 'manually_automated' (blue)
+=> Winner: disappointment
+=> Game t6
+=> Params: n: 6, p1: 'manually_automated' (red), p2: 'disappointment' (blue)
+=> Winner: disappointment
+=============================== Results summary ================================
+=> Wins 'disappointment'     : 6
+=> Wins 'manually_automated' : 4
+=> Total draws               : 0
+=> Overall winner            : disappointment

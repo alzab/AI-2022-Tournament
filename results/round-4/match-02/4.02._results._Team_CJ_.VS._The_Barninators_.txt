@@ -1,0 +1,20 @@
+==================== Cachex tournament - Round 4, Match 02 =====================
+======================== 'Team_CJ' VS 'The_Barninators' ========================
+=> Game 1
+=> Params: n: 8, p1: 'Team_CJ' (red), p2: 'The_Barninators' (blue)
+=> Winner: Team_CJ
+=> Game 2
+=> Params: n: 8, p1: 'The_Barninators' (red), p2: 'Team_CJ' (blue)
+=> Winner: Team_CJ
+=> Game 3
+=> Params: n: 9, p1: 'Team_CJ' (red), p2: 'The_Barninators' (blue)
+error: red: player 1 exceeded available time
+=> Winner: The_Barninators
+=> Game 4
+=> Params: n: 9, p1: 'The_Barninators' (red), p2: 'Team_CJ' (blue)
+=> Winner: Team_CJ
+=============================== Results summary ================================
+=> Wins 'Team_CJ'         : 3
+=> Wins 'The_Barninators' : 1
+=> Total draws            : 0
+=> Overall winner         : Team_CJ

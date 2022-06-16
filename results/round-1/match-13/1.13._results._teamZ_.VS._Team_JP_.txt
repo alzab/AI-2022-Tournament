@@ -1,0 +1,21 @@
+==================== Cachex tournament - Round 1, Match 13 =====================
+============================= 'teamZ' VS 'Team_JP' =============================
+=> Game 1
+=> Params: n: 8, p1: 'teamZ' (red), p2: 'Team_JP' (blue)
+=> Winner: teamZ
+=> Game 2
+=> Params: n: 8, p1: 'Team_JP' (red), p2: 'teamZ' (blue)
+error: red: getFirstMove() takes 2 positional arguments but 3 were given
+=> Winner: teamZ
+=> Game 3
+=> Params: n: 9, p1: 'teamZ' (red), p2: 'Team_JP' (blue)
+=> Winner: teamZ
+=> Game 4
+=> Params: n: 9, p1: 'Team_JP' (red), p2: 'teamZ' (blue)
+error: red: getFirstMove() takes 2 positional arguments but 3 were given
+=> Winner: teamZ
+=============================== Results summary ================================
+=> Wins 'teamZ'   : 4
+=> Wins 'Team_JP' : 0
+=> Total draws    : 0
+=> Overall winner : teamZ

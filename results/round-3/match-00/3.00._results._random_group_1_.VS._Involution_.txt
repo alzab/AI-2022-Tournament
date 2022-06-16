@@ -1,0 +1,21 @@
+==================== Cachex tournament - Round 3, Match 00 =====================
+======================= 'random_group_1' VS 'Involution' =======================
+=> Game 1
+=> Params: n: 8, p1: 'random_group_1' (red), p2: 'Involution' (blue)
+error: red: illegal action ('PLACE', 5, 4)
+=> Winner: Involution
+=> Game 2
+=> Params: n: 8, p1: 'Involution' (red), p2: 'random_group_1' (blue)
+=> Winner: Involution
+=> Game 3
+=> Params: n: 9, p1: 'random_group_1' (red), p2: 'Involution' (blue)
+error: red: illegal action ('PLACE', 5, 4)
+=> Winner: Involution
+=> Game 4
+=> Params: n: 9, p1: 'Involution' (red), p2: 'random_group_1' (blue)
+=> Winner: Involution
+=============================== Results summary ================================
+=> Wins 'random_group_1' : 0
+=> Wins 'Involution'     : 4
+=> Total draws           : 0
+=> Overall winner        : Involution

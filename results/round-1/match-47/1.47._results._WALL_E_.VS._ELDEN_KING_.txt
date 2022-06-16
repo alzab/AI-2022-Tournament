@@ -1,0 +1,25 @@
+==================== Cachex tournament - Round 1, Match 47 =====================
+=========================== 'WALL_E' VS 'ELDEN_KING' ===========================
+=> Game 1
+=> Params: n: 8, p1: 'WALL_E' (red), p2: 'ELDEN_KING' (blue)
+=> Winner: ELDEN_KING
+=> Game 2
+=> Params: n: 8, p1: 'ELDEN_KING' (red), p2: 'WALL_E' (blue)
+=> Winner: WALL_E
+=> Game 3
+=> Params: n: 9, p1: 'WALL_E' (red), p2: 'ELDEN_KING' (blue)
+=> Winner: ELDEN_KING
+=> Game 4
+=> Params: n: 9, p1: 'ELDEN_KING' (red), p2: 'WALL_E' (blue)
+=> Winner: WALL_E
+=> Game t1
+=> Params: n: 7, p1: 'WALL_E' (red), p2: 'ELDEN_KING' (blue)
+=> Winner: ELDEN_KING
+=> Game t2
+=> Params: n: 7, p1: 'ELDEN_KING' (red), p2: 'WALL_E' (blue)
+=> Winner: ELDEN_KING
+=============================== Results summary ================================
+=> Wins 'WALL_E'     : 2
+=> Wins 'ELDEN_KING' : 4
+=> Total draws       : 0
+=> Overall winner    : ELDEN_KING

@@ -1,0 +1,35 @@
+Traceback (most recent call last):
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/donkeyBrain/player.py", line 145, in alpha_beta
+    token = temp_placed[(child[0], child[1])]
+KeyError: (4, 7)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/rh/rh-python36/root/usr/lib64/python3.6/runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/opt/rh/rh-python36/root/usr/lib64/python3.6/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/__main__.py", line 3, in <module>
+    main()
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/main.py", line 53, in main
+    log_filename=options.logfile,
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/game.py", line 140, in play
+    raise e
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/game.py", line 137, in play
+    player.turn(curr_player.colour, sanitised_action)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/player.py", line 68, in turn
+    self.player.turn(player, action)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/donkeyBrain/player.py", line 89, in turn
+    self.prepare_next_turn()
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/donkeyBrain/player.py", line 99, in prepare_next_turn
+    move = self.alpha_beta(-1 * inf, inf, MAX_DEPTH, True, self.placed)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/donkeyBrain/player.py", line 123, in alpha_beta
+    alpha, beta, depth - 1, not maximum, temp_placed)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/donkeyBrain/player.py", line 149, in alpha_beta
+    self.n - child[0] - 1, child[1], self.player, temp_placed)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/donkeyBrain/board.py", line 27, in place
+    return self._apply_capture(token, placed)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/donkeyBrain/board.py", line 82, in _apply_capture
+    placed.pop((row, col))
+KeyError: (3, 7)

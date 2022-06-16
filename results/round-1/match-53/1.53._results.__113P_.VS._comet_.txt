@@ -1,0 +1,25 @@
+==================== Cachex tournament - Round 1, Match 53 =====================
+============================== '_113P' VS 'comet' ==============================
+=> Game 1
+=> Params: n: 8, p1: '_113P' (red), p2: 'comet' (blue)
+=> Winner: comet
+=> Game 2
+=> Params: n: 8, p1: 'comet' (red), p2: '_113P' (blue)
+=> Winner: comet
+=> Game 3
+=> Params: n: 9, p1: '_113P' (red), p2: 'comet' (blue)
+=> Winner: _113P
+=> Game 4
+=> Params: n: 9, p1: 'comet' (red), p2: '_113P' (blue)
+=> Winner: _113P
+=> Game t1
+=> Params: n: 7, p1: '_113P' (red), p2: 'comet' (blue)
+=> Winner: comet
+=> Game t2
+=> Params: n: 7, p1: 'comet' (red), p2: '_113P' (blue)
+=> Winner: comet
+=============================== Results summary ================================
+=> Wins '_113P'   : 2
+=> Wins 'comet'   : 4
+=> Total draws    : 0
+=> Overall winner : comet

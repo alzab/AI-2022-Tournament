@@ -1,0 +1,20 @@
+==================== Cachex tournament - Round 4, Match 03 =====================
+====================== '_403_Forbidden' VS 'DarkSouls_AI' ======================
+=> Game 1
+=> Params: n: 8, p1: '_403_Forbidden' (red), p2: 'DarkSouls_AI' (blue)
+=> Winner: _403_Forbidden
+=> Game 2
+=> Params: n: 8, p1: 'DarkSouls_AI' (red), p2: '_403_Forbidden' (blue)
+=> Winner: DarkSouls_AI
+=> Game 3
+=> Params: n: 9, p1: '_403_Forbidden' (red), p2: 'DarkSouls_AI' (blue)
+=> Winner: DarkSouls_AI
+=> Game 4
+=> Params: n: 9, p1: 'DarkSouls_AI' (red), p2: '_403_Forbidden' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: DarkSouls_AI
+=============================== Results summary ================================
+=> Wins '_403_Forbidden' : 1
+=> Wins 'DarkSouls_AI'   : 3
+=> Total draws           : 0
+=> Overall winner        : DarkSouls_AI

@@ -1,0 +1,4 @@
+turn 1: red: PLACE token in cell (1, 1); dt:8.249000000015716e-06
+turn 2: blue: STEAL first move; dt:5.1442000000012644e-05
+error: red: local variable 'closest' referenced before assignment
+winner: blue

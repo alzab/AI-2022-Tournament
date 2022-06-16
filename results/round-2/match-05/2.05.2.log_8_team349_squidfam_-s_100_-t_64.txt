@@ -1,0 +1,4 @@
+turn 1: red: PLACE token in cell (0, 4); dt:0.009876676000000001
+turn 2: blue: STEAL first move; dt:1.2896999999983949e-05
+error: red: can only concatenate tuple (not "int") to tuple
+winner: blue

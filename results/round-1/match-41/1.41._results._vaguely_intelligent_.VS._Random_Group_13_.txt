@@ -1,0 +1,39 @@
+==================== Cachex tournament - Round 1, Match 41 =====================
+================== 'vaguely_intelligent' VS 'Random_Group_13' ==================
+=> Game 1
+=> Params: n: 8, p1: 'vaguely_intelligent' (red), p2: 'Random_Group_13' (blue)
+=> Winner: Random_Group_13
+=> Game 2
+=> Params: n: 8, p1: 'Random_Group_13' (red), p2: 'vaguely_intelligent' (blue)
+=> Winner: vaguely_intelligent
+=> Game 3
+=> Params: n: 9, p1: 'vaguely_intelligent' (red), p2: 'Random_Group_13' (blue)
+error: blue: illegal action ('PLACE', 0, 0)
+=> Winner: vaguely_intelligent
+=> Game 4
+=> Params: n: 9, p1: 'Random_Group_13' (red), p2: 'vaguely_intelligent' (blue)
+=> Winner: Random_Group_13
+=> Game t1
+=> Params: n: 7, p1: 'vaguely_intelligent' (red), p2: 'Random_Group_13' (blue)
+error: blue: illegal action ('PLACE', 0, 0)
+=> Winner: vaguely_intelligent
+=> Game t2
+=> Params: n: 7, p1: 'Random_Group_13' (red), p2: 'vaguely_intelligent' (blue)
+=> Winner: Random_Group_13
+=> Game t3
+=> Params: n: 10, p1: 'vaguely_intelligent' (red), p2: 'Random_Group_13' (blue)
+=> Winner: Random_Group_13
+=> Game t4
+=> Params: n: 10, p1: 'Random_Group_13' (red), p2: 'vaguely_intelligent' (blue)
+=> Winner: vaguely_intelligent
+=> Game t5
+=> Params: n: 6, p1: 'vaguely_intelligent' (red), p2: 'Random_Group_13' (blue)
+=> Winner: vaguely_intelligent
+=> Game t6
+=> Params: n: 6, p1: 'Random_Group_13' (red), p2: 'vaguely_intelligent' (blue)
+=> Winner: vaguely_intelligent
+=============================== Results summary ================================
+=> Wins 'vaguely_intelligent' : 6
+=> Wins 'Random_Group_13'     : 4
+=> Total draws                : 0
+=> Overall winner             : vaguely_intelligent

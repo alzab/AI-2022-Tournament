@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 24 =====================
+======================= 'disappointment' VS 'AI_IS_FUN' ========================
+=> Game 1
+=> Params: n: 8, p1: 'disappointment' (red), p2: 'AI_IS_FUN' (blue)
+=> Winner: AI_IS_FUN
+=> Game 2
+=> Params: n: 8, p1: 'AI_IS_FUN' (red), p2: 'disappointment' (blue)
+=> Winner: disappointment
+=> Game 3
+=> Params: n: 9, p1: 'disappointment' (red), p2: 'AI_IS_FUN' (blue)
+=> Winner: disappointment
+=> Game 4
+=> Params: n: 9, p1: 'AI_IS_FUN' (red), p2: 'disappointment' (blue)
+=> Winner: disappointment
+=============================== Results summary ================================
+=> Wins 'disappointment' : 3
+=> Wins 'AI_IS_FUN'      : 1
+=> Total draws           : 0
+=> Overall winner        : disappointment

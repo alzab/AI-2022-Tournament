@@ -1,0 +1,33 @@
+turn 1: red: PLACE token in cell (4, 3); dt:1.000982893
+turn 2: blue: STEAL first move; dt:3.1605197689999995
+turn 3: red: PLACE token in cell (3, 5); dt:2.686363095
+turn 4: blue: PLACE token in cell (3, 6); dt:7.904512582000001
+turn 5: red: PLACE token in cell (5, 3); dt:2.205173104
+turn 6: blue: PLACE token in cell (6, 2); dt:7.995691179000001
+turn 7: red: PLACE token in cell (7, 3); dt:1.8329691849999996
+turn 8: blue: PLACE token in cell (3, 3); dt:2.5086219840000012
+turn 9: red: PLACE token in cell (4, 4); dt:1.6574134240000022
+turn 10: blue: PLACE token in cell (4, 5); dt:1.550371834
+turn 11: red: PLACE token in cell (4, 4); dt:1.2960104229999985
+turn 12: blue: PLACE token in cell (2, 3); dt:1.3711805370000008
+turn 13: red: PLACE token in cell (3, 5); dt:3.0307884630000004
+turn 14: blue: PLACE token in cell (3, 4); dt:2.6488091380000043
+turn 15: red: PLACE token in cell (4, 5); dt:1.1419882399999963
+turn 16: blue: PLACE token in cell (3, 2); dt:2.8227468429999973
+turn 17: red: PLACE token in cell (4, 3); dt:3.9569137709999964
+turn 18: blue: PLACE token in cell (2, 4); dt:1.2111040480000028
+turn 19: red: PLACE token in cell (1, 6); dt:1.8549408290000002
+turn 20: blue: PLACE token in cell (3, 7); dt:4.004171828000008
+turn 21: red: PLACE token in cell (0, 6); dt:1.9254714739999983
+turn 22: blue: PLACE token in cell (1, 5); dt:1.4499214459999976
+turn 23: red: PLACE token in cell (0, 7); dt:0.9644292420000014
+turn 24: blue: PLACE token in cell (7, 1); dt:5.4456043690000016
+turn 25: red: PLACE token in cell (6, 3); dt:1.5549073299999918
+turn 26: blue: PLACE token in cell (5, 4); dt:5.676891561000005
+turn 27: red: PLACE token in cell (5, 3); dt:1.0970153469999957
+turn 28: blue: PLACE token in cell (0, 5); dt:3.498405955999999
+turn 29: red: PLACE token in cell (6, 3); dt:1.4800818309999926
+turn 30: blue: PLACE token in cell (2, 5); dt:4.835556678999993
+turn 31: red: PLACE token in cell (2, 6); dt:1.7686542779999996
+error: blue: player 2 exceeded available time
+winner: red

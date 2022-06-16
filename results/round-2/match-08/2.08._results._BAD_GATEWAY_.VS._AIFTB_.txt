@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 2, Match 08 =====================
+=========================== 'BAD_GATEWAY' VS 'AIFTB' ===========================
+=> Game 1
+=> Params: n: 8, p1: 'BAD_GATEWAY' (red), p2: 'AIFTB' (blue)
+=> Winner: AIFTB
+=> Game 2
+=> Params: n: 8, p1: 'AIFTB' (red), p2: 'BAD_GATEWAY' (blue)
+=> Winner: AIFTB
+=> Game 3
+=> Params: n: 9, p1: 'BAD_GATEWAY' (red), p2: 'AIFTB' (blue)
+=> Winner: AIFTB
+=> Game 4
+=> Params: n: 9, p1: 'AIFTB' (red), p2: 'BAD_GATEWAY' (blue)
+=> Winner: BAD_GATEWAY
+=============================== Results summary ================================
+=> Wins 'BAD_GATEWAY' : 1
+=> Wins 'AIFTB'       : 3
+=> Total draws        : 0
+=> Overall winner     : AIFTB

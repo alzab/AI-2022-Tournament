@@ -1,0 +1,27 @@
+turn 1: red: PLACE token in cell (0, 2); dt:0.024720373000000018
+turn 2: blue: STEAL first move; dt:1.387420213
+turn 3: red: PLACE token in cell (0, 5); dt:0.025289927000000212
+turn 4: blue: PLACE token in cell (4, 2); dt:3.127372363
+turn 5: red: PLACE token in cell (0, 0); dt:0.028063140999999625
+turn 6: blue: PLACE token in cell (3, 2); dt:0.7052830949999995
+turn 7: red: PLACE token in cell (1, 6); dt:0.028405913000000282
+turn 8: blue: PLACE token in cell (4, 3); dt:1.4946994570000003
+turn 9: red: PLACE token in cell (1, 1); dt:0.02566976600000004
+turn 10: blue: PLACE token in cell (3, 4); dt:1.0022543970000006
+turn 11: red: PLACE token in cell (0, 1); dt:0.025657792000000512
+turn 12: blue: PLACE token in cell (2, 3); dt:0.5557431729999998
+turn 13: red: PLACE token in cell (2, 4); dt:0.026087762999999597
+turn 14: blue: PLACE token in cell (4, 4); dt:0.5265078389999989
+turn 15: red: PLACE token in cell (2, 5); dt:0.030579727000001
+turn 16: blue: PLACE token in cell (3, 3); dt:0.3000654039999997
+turn 17: red: PLACE token in cell (0, 4); dt:0.02972042999999938
+turn 18: blue: PLACE token in cell (3, 5); dt:0.19255016099999978
+turn 19: red: PLACE token in cell (3, 0); dt:0.0348458849999993
+turn 20: blue: PLACE token in cell (5, 2); dt:0.05667797100000094
+turn 21: red: PLACE token in cell (1, 5); dt:0.03041104899999958
+turn 22: blue: PLACE token in cell (5, 3); dt:0.05214606300000035
+turn 23: red: PLACE token in cell (0, 7); dt:0.033693108999999666
+turn 24: blue: PLACE token in cell (5, 4); dt:0.016304925000000026
+turn 25: red: PLACE token in cell (4, 5); dt:0.033316461000000075
+error: blue: 'NoneType' object has no attribute 'r'
+winner: red

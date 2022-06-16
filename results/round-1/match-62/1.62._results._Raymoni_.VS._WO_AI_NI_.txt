@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 62 =====================
+=========================== 'Raymoni' VS 'WO_AI_NI' ============================
+=> Game 1
+=> Params: n: 8, p1: 'Raymoni' (red), p2: 'WO_AI_NI' (blue)
+=> Winner: Raymoni
+=> Game 2
+=> Params: n: 8, p1: 'WO_AI_NI' (red), p2: 'Raymoni' (blue)
+=> Winner: Raymoni
+=> Game 3
+=> Params: n: 9, p1: 'Raymoni' (red), p2: 'WO_AI_NI' (blue)
+=> Winner: Raymoni
+=> Game 4
+=> Params: n: 9, p1: 'WO_AI_NI' (red), p2: 'Raymoni' (blue)
+=> Winner: Raymoni
+=============================== Results summary ================================
+=> Wins 'Raymoni'  : 4
+=> Wins 'WO_AI_NI' : 0
+=> Total draws     : 0
+=> Overall winner  : Raymoni

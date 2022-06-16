@@ -1,0 +1,4 @@
+turn 1: red: PLACE token in cell (7, 7); dt:6.13370000000224e-05
+turn 2: blue: STEAL first move; dt:1.725500000002156e-05
+error: red: list.remove(x): x not in list
+winner: blue

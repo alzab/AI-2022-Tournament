@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 63 =====================
+=================== 'irrationalAgents' VS 'Powerpuff_Girls' ====================
+=> Game 1
+=> Params: n: 8, p1: 'irrationalAgents' (red), p2: 'Powerpuff_Girls' (blue)
+=> Winner: irrationalAgents
+=> Game 2
+=> Params: n: 8, p1: 'Powerpuff_Girls' (red), p2: 'irrationalAgents' (blue)
+=> Winner: irrationalAgents
+=> Game 3
+=> Params: n: 9, p1: 'irrationalAgents' (red), p2: 'Powerpuff_Girls' (blue)
+=> Winner: irrationalAgents
+=> Game 4
+=> Params: n: 9, p1: 'Powerpuff_Girls' (red), p2: 'irrationalAgents' (blue)
+=> Winner: irrationalAgents
+=============================== Results summary ================================
+=> Wins 'irrationalAgents' : 4
+=> Wins 'Powerpuff_Girls'  : 0
+=> Total draws             : 0
+=> Overall winner          : irrationalAgents

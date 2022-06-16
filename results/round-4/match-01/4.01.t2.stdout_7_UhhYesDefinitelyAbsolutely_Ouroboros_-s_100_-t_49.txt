@@ -1,0 +1,862 @@
+******************************************************************
+welcome to Cachex referee version 2022.0.1.
+
+conduct a game of Cachex between 2 Player classes.
+
+run `python -m referee --help` for additional usage information.
+******************************************************************
+* all messages printed by the referee after this begin with *
+* (any other lines of output must be from your Player class).
+* importing player 1's player class 'Player' from package 'UhhYesDefinitelyAbsolutely'
+* importing player 2's player class 'Player' from package 'Ouroboros'
+** initialising players
+* initialising red player as a 'UhhYesDefinitelyAbsolutely.AIs.ID.IterativeDeepening'
+*   time:  + 0.028s  (just elapsed)    0.028s  (game total)
+*   space:   3.641MB (current usage)   8.523MB (max usage) (shared)
+* initialising blue player as a 'Ouroboros.player.Player'
+*   time:  + 0.013s  (just elapsed)    0.013s  (game total)
+*   space:   3.641MB (current usage)   8.523MB (max usage) (shared)
+** game start!
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |     |     |     |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |     |     |     |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |     |     |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |     |     |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |     |     |     |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |     |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |     |     |     |     |     |     |     |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+** Turn 1
+* asking player 1 (red) for next action...
+*   player 1 (red) returned action: ('PLACE', 6, 0)
+*   time:  + 0.000s  (just elapsed)    0.028s  (game total)
+*   space:   3.641MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |     |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |     |     |     |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |     |     |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |     |     |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |     |     |     |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |     |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |     |     |     |     |     |     |     |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)    0.028s  (game total)
+*   space:   3.641MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    0.014s  (game total)
+*   space:   3.641MB (current usage)   8.523MB (max usage) (shared)
+** Turn 2
+* asking player 2 (blue) for next action...
+*   player 2 (blue) returned action: ('STEAL',)
+*   time:  + 0.000s  (just elapsed)    0.014s  (game total)
+*   space:   3.641MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |     |     |     |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |     |     |     |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |     |     |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |     |     |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |     |     |     |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |     |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |     |     |     |     |     |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)    0.028s  (game total)
+*   space:   3.641MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    0.014s  (game total)
+*   space:   3.641MB (current usage)   8.523MB (max usage) (shared)
+** Turn 3
+* asking player 1 (red) for next action...
+*   player 1 (red) returned action: ('PLACE', 6, 0)
+*   time:  + 1.500s  (just elapsed)    1.528s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |     |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |     |     |     |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |     |     |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |     |     |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |     |     |     |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |     |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |     |     |     |     |     |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)    1.528s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    0.014s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 4
+* asking player 2 (blue) for next action...
+*   player 2 (blue) returned action: ('PLACE', 5, 0)
+*   time:  + 0.000s  (just elapsed)    0.014s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |     |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |     |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |     |     |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |     |     |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |     |     |     |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |     |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |     |     |     |     |     |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)    1.528s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    0.015s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 5
+* asking player 1 (red) for next action...
+*   player 1 (red) returned action: ('PLACE', 0, 4)
+*   time:  + 1.500s  (just elapsed)    3.028s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |     |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |     |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |     |     |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |     |     |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |     |     |     |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |     |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |     |     |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)    3.028s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    0.015s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 6
+* asking player 2 (blue) for next action...
+MINMAX
+*   player 2 (blue) returned action: ('PLACE', 1, 4)
+*   time:  + 0.808s  (just elapsed)    0.823s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |     |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |     |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |     |     |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |     |     |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |     |     |     |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |     |     |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)    3.028s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    0.823s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 7
+* asking player 1 (red) for next action...
+*   player 1 (red) returned action: ('PLACE', 2, 2)
+*   time:  + 1.500s  (just elapsed)    4.529s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |     |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |     |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |     |     |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |     |     |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |  r  |     |     |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |     |     |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)    4.529s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    0.823s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 8
+* asking player 2 (blue) for next action...
+MINMAX
+*   player 2 (blue) returned action: ('PLACE', 3, 2)
+*   time:  + 0.635s  (just elapsed)    1.458s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |     |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |     |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |     |     |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |     |  b  |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |  r  |     |     |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |     |     |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)    4.529s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    1.458s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 9
+* asking player 1 (red) for next action...
+*   player 1 (red) returned action: ('PLACE', 6, 2)
+*   time:  + 1.500s  (just elapsed)    6.029s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |     |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |     |     |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |     |  b  |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |  r  |     |     |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |     |     |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)    6.029s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    1.459s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 10
+* asking player 2 (blue) for next action...
+MINMAX
+*   player 2 (blue) returned action: ('PLACE', 4, 1)
+*   time:  + 1.037s  (just elapsed)    2.495s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |     |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |     |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |     |  b  |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |  r  |     |     |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |     |     |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)    6.029s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    2.496s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 11
+* asking player 1 (red) for next action...
+*   player 1 (red) returned action: ('PLACE', 4, 2)
+*   time:  + 1.500s  (just elapsed)    7.529s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |     |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |     |  b  |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |  r  |     |     |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |     |     |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)    7.529s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    2.496s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 12
+* asking player 2 (blue) for next action...
+MINMAX
+*   player 2 (blue) returned action: ('PLACE', 3, 1)
+*   time:  + 0.254s  (just elapsed)    2.751s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |     |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |  b  |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |  r  |     |     |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |     |     |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)    7.529s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    2.751s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 13
+* asking player 1 (red) for next action...
+*   player 1 (red) returned action: ('PLACE', 2, 4)
+*   time:  + 1.500s  (just elapsed)    9.030s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |     |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |  b  |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |  r  |     |  r  |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |     |     |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)    9.030s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    2.751s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 14
+* asking player 2 (blue) for next action...
+MINMAX
+*   player 2 (blue) returned action: ('PLACE', 0, 0)
+*   time:  + 1.256s  (just elapsed)    4.007s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |     |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |  b  |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |  r  |     |  r  |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |     |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)    9.030s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    4.007s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 15
+* asking player 1 (red) for next action...
+*   player 1 (red) returned action: ('PLACE', 5, 2)
+*   time:  + 1.500s  (just elapsed)   10.530s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |  r  |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |  b  |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |  r  |     |  r  |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |     |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)   10.530s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    4.008s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 16
+* asking player 2 (blue) for next action...
+MINMAX
+*   player 2 (blue) returned action: ('PLACE', 0, 1)
+*   time:  + 1.306s  (just elapsed)    5.314s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |  r  |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |     |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |  b  |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |  r  |     |  r  |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |  b  |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)   10.530s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    5.315s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 17
+* asking player 1 (red) for next action...
+*   player 1 (red) returned action: ('PLACE', 4, 3)
+*   time:  + 1.501s  (just elapsed)   12.031s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |  r  |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |  r  |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |  b  |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |     |     |  r  |     |  r  |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |  b  |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)   12.031s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    5.315s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 18
+* asking player 2 (blue) for next action...
+MINMAX
+*   player 2 (blue) returned action: ('PLACE', 2, 0)
+*   time:  + 1.637s  (just elapsed)    6.951s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |  r  |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |  r  |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |  b  |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |  b  |     |  r  |     |  r  |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |  b  |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)   12.031s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    6.952s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 19
+* asking player 1 (red) for next action...
+*   player 1 (red) returned action: ('PLACE', 3, 4)
+*   time:  + 1.500s  (just elapsed)   13.531s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |  r  |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |  r  |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |  b  |     |  r  |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |  b  |     |  r  |     |  r  |     |     |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |  b  |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)   13.531s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    6.952s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 20
+* asking player 2 (blue) for next action...
+MINMAX
+*   player 2 (blue) returned action: ('PLACE', 2, 6)
+*   time:  + 1.271s  (just elapsed)    8.223s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |     |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |  r  |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |  r  |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |  b  |     |  r  |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |  b  |     |  r  |     |  r  |     |  b  |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |  b  |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)   13.531s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    8.223s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 21
+* asking player 1 (red) for next action...
+*   player 1 (red) returned action: ('PLACE', 6, 1)
+*   time:  + 1.501s  (just elapsed)   15.032s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |  r  |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |  r  |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |  r  |     |     |     |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |  b  |     |  r  |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |  b  |     |  r  |     |  r  |     |  b  |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |  b  |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)   15.032s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    8.224s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 22
+* asking player 2 (blue) for next action...
+MINMAX
+*   player 2 (blue) returned action: ('PLACE', 4, 6)
+*   time:  + 1.251s  (just elapsed)    9.475s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |  r  |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |  r  |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |  r  |     |     |  b  |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |  b  |     |  r  |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |  b  |     |  r  |     |  r  |     |  b  |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |  b  |     |     |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)   15.032s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    9.475s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 23
+* asking player 1 (red) for next action...
+*   player 1 (red) returned action: ('PLACE', 0, 3)
+*   time:  + 1.501s  (just elapsed)   16.533s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |  r  |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |  r  |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |  r  |     |     |  b  |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |  b  |     |  r  |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |  b  |     |  r  |     |  r  |     |  b  |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |  b  |     |  r  |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)   16.533s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    9.475s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 24
+* asking player 2 (blue) for next action...
+CAPTURE
+*   player 2 (blue) returned action: ('PLACE', 4, 4)
+*   time:  + 0.079s  (just elapsed)    9.554s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |  r  |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |  r  |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |  r  |  b  |     |  b  |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |  b  |     |  r  |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |  b  |     |  r  |     |  r  |     |  b  |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |     |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |  b  |     |  r  |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)   16.533s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    9.554s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 25
+* asking player 1 (red) for next action...
+*   player 1 (red) returned action: ('PLACE', 1, 2)
+*   time:  + 1.501s  (just elapsed)   18.033s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |  r  |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |  r  |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |  r  |  b  |     |  b  |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |  b  |     |  r  |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |  b  |     |  r  |     |  r  |     |  b  |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |  r  |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |  b  |     |  r  |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)   18.034s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    9.555s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 26
+* asking player 2 (blue) for next action...
+CAPTURE
+*   player 2 (blue) returned action: ('PLACE', 3, 3)
+*   time:  + 0.054s  (just elapsed)    9.609s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |  r  |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |  r  |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |     |  b  |     |  b  |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |  b  |  b  |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |  b  |     |  r  |     |  r  |     |  b  |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |  r  |     |  b  |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |  b  |     |  r  |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)   18.034s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    9.609s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 27
+* asking player 1 (red) for next action...
+*   player 1 (red) returned action: ('PLACE', 2, 3)
+*   time:  + 1.500s  (just elapsed)   19.534s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |  r  |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |  r  |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |     |  b  |     |  b  |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |     |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |  b  |     |  r  |  r  |  r  |     |  b  |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |  r  |     |     |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |  b  |     |  r  |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)   19.534s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    9.609s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 28
+* asking player 2 (blue) for next action...
+CAPTURE
+*   player 2 (blue) returned action: ('PLACE', 1, 3)
+*   time:  + 0.080s  (just elapsed)    9.689s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |  r  |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |  r  |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |     |  b  |     |  b  |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |     |     |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |  b  |     |  r  |  r  |  r  |     |  b  |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |  r  |  b  |     |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |  b  |     |  r  |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)   19.534s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    9.689s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** Turn 29
+* asking player 1 (red) for next action...
+*   player 1 (red) returned action: ('PLACE', 3, 3)
+*   time:  + 1.501s  (just elapsed)   21.035s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* displaying game info:
+*   
+*                      .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-.
+*                     |  r  |  r  |  r  |     |     |     |     |
+*                   .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*                  |  b  |     |  r  |     |     |     |     |
+*                .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*               |     |  b  |  r  |     |  b  |     |  b  |
+*             .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*            |     |  b  |     |  r  |     |     |     |
+*          .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*         |  b  |     |  r  |  r  |  r  |     |  b  |
+*       .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*      |     |     |  r  |  b  |     |     |     |
+*    .-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+*   |  b  |  b  |     |  r  |  r  |     |  b  |
+*   '-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'-._.-'
+* updating player 1 (red) with actions...
+*   time:  + 0.000s  (just elapsed)   21.035s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+* updating player 2 (blue) with actions...
+*   time:  + 0.000s  (just elapsed)    9.690s  (game total)
+*   space:   4.141MB (current usage)   8.523MB (max usage) (shared)
+** game over!
+* winner: red

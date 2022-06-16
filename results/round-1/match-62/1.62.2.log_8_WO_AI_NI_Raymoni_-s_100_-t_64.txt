@@ -1,0 +1,17 @@
+turn 1: red: PLACE token in cell (4, 3); dt:1.256324475
+turn 2: blue: STEAL first move; dt:0.7668555719999999
+turn 3: red: PLACE token in cell (4, 3); dt:1.3272357280000002
+turn 4: blue: PLACE token in cell (3, 3); dt:0.7482980579999996
+turn 5: red: PLACE token in cell (6, 3); dt:0.9033078309999989
+turn 6: blue: PLACE token in cell (3, 1); dt:0.6712337069999998
+turn 7: red: PLACE token in cell (2, 3); dt:0.8681084880000007
+turn 8: blue: PLACE token in cell (3, 2); dt:0.611605173000001
+turn 9: red: PLACE token in cell (0, 3); dt:0.8658225089999991
+turn 10: blue: PLACE token in cell (3, 5); dt:0.5903727979999989
+turn 11: red: PLACE token in cell (7, 3); dt:0.836641117000001
+turn 12: blue: PLACE token in cell (3, 6); dt:0.4848374289999988
+turn 13: red: PLACE token in cell (5, 3); dt:0.8113905419999998
+turn 14: blue: PLACE token in cell (4, 0); dt:0.3972495299999994
+turn 15: red: PLACE token in cell (1, 3); dt:0.8504059300000009
+turn 16: blue: PLACE token in cell (2, 7); dt:0.3287741560000015
+winner: blue

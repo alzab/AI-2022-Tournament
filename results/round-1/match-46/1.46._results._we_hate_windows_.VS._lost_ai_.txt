@@ -1,0 +1,20 @@
+==================== Cachex tournament - Round 1, Match 46 =====================
+======================== 'we_hate_windows' VS 'lost_ai' ========================
+=> Game 1
+=> Params: n: 8, p1: 'we_hate_windows' (red), p2: 'lost_ai' (blue)
+=> Winner: lost_ai
+=> Game 2
+=> Params: n: 8, p1: 'lost_ai' (red), p2: 'we_hate_windows' (blue)
+=> Winner: lost_ai
+=> Game 3
+=> Params: n: 9, p1: 'we_hate_windows' (red), p2: 'lost_ai' (blue)
+=> Winner: we_hate_windows
+=> Game 4
+=> Params: n: 9, p1: 'lost_ai' (red), p2: 'we_hate_windows' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: lost_ai
+=============================== Results summary ================================
+=> Wins 'we_hate_windows' : 1
+=> Wins 'lost_ai'         : 3
+=> Total draws            : 0
+=> Overall winner         : lost_ai

@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 16 =====================
+========================== 'Genesis' VS 'BAD_GATEWAY' ==========================
+=> Game 1
+=> Params: n: 8, p1: 'Genesis' (red), p2: 'BAD_GATEWAY' (blue)
+=> Winner: BAD_GATEWAY
+=> Game 2
+=> Params: n: 8, p1: 'BAD_GATEWAY' (red), p2: 'Genesis' (blue)
+=> Winner: BAD_GATEWAY
+=> Game 3
+=> Params: n: 9, p1: 'Genesis' (red), p2: 'BAD_GATEWAY' (blue)
+=> Winner: Genesis
+=> Game 4
+=> Params: n: 9, p1: 'BAD_GATEWAY' (red), p2: 'Genesis' (blue)
+=> Winner: BAD_GATEWAY
+=============================== Results summary ================================
+=> Wins 'Genesis'     : 1
+=> Wins 'BAD_GATEWAY' : 3
+=> Total draws        : 0
+=> Overall winner     : BAD_GATEWAY

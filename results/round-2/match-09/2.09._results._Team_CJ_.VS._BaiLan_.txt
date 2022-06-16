@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 2, Match 09 =====================
+============================ 'Team_CJ' VS 'BaiLan' =============================
+=> Game 1
+=> Params: n: 8, p1: 'Team_CJ' (red), p2: 'BaiLan' (blue)
+=> Winner: Team_CJ
+=> Game 2
+=> Params: n: 8, p1: 'BaiLan' (red), p2: 'Team_CJ' (blue)
+=> Winner: Team_CJ
+=> Game 3
+=> Params: n: 9, p1: 'Team_CJ' (red), p2: 'BaiLan' (blue)
+=> Winner: Team_CJ
+=> Game 4
+=> Params: n: 9, p1: 'BaiLan' (red), p2: 'Team_CJ' (blue)
+=> Winner: Team_CJ
+=============================== Results summary ================================
+=> Wins 'Team_CJ' : 4
+=> Wins 'BaiLan'  : 0
+=> Total draws    : 0
+=> Overall winner : Team_CJ

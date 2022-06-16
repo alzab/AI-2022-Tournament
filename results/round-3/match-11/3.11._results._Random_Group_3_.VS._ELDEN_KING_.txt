@@ -1,0 +1,20 @@
+==================== Cachex tournament - Round 3, Match 11 =====================
+======================= 'Random_Group_3' VS 'ELDEN_KING' =======================
+=> Game 1
+=> Params: n: 8, p1: 'Random_Group_3' (red), p2: 'ELDEN_KING' (blue)
+error: red: player 1 exceeded available time
+=> Winner: ELDEN_KING
+=> Game 2
+=> Params: n: 8, p1: 'ELDEN_KING' (red), p2: 'Random_Group_3' (blue)
+=> Winner: ELDEN_KING
+=> Game 3
+=> Params: n: 9, p1: 'Random_Group_3' (red), p2: 'ELDEN_KING' (blue)
+=> Winner: ELDEN_KING
+=> Game 4
+=> Params: n: 9, p1: 'ELDEN_KING' (red), p2: 'Random_Group_3' (blue)
+=> Winner: Random_Group_3
+=============================== Results summary ================================
+=> Wins 'Random_Group_3' : 1
+=> Wins 'ELDEN_KING'     : 3
+=> Total draws           : 0
+=> Overall winner        : ELDEN_KING

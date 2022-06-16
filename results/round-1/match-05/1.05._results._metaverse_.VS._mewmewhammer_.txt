@@ -1,0 +1,21 @@
+==================== Cachex tournament - Round 1, Match 05 =====================
+======================== 'metaverse' VS 'mewmewhammer' =========================
+=> Game 1
+=> Params: n: 8, p1: 'metaverse' (red), p2: 'mewmewhammer' (blue)
+=> Winner: metaverse
+=> Game 2
+=> Params: n: 8, p1: 'mewmewhammer' (red), p2: 'metaverse' (blue)
+draw: same game state occurred                 7 times
+=> Winner: None
+=> Game 3
+=> Params: n: 9, p1: 'metaverse' (red), p2: 'mewmewhammer' (blue)
+=> Winner: metaverse
+=> Game 4
+=> Params: n: 9, p1: 'mewmewhammer' (red), p2: 'metaverse' (blue)
+draw: same game state occurred                 7 times
+=> Winner: None
+=============================== Results summary ================================
+=> Wins 'metaverse'    : 2
+=> Wins 'mewmewhammer' : 0
+=> Total draws         : 2
+=> Overall winner      : metaverse

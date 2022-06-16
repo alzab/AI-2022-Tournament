@@ -1,0 +1,37 @@
+==================== Cachex tournament - Round 1, Match 28 =====================
+============================== 'TBD' VS 'YUKI_N' ===============================
+=> Game 1
+=> Params: n: 8, p1: 'TBD' (red), p2: 'YUKI_N' (blue)
+=> Winner: YUKI_N
+=> Game 2
+=> Params: n: 8, p1: 'YUKI_N' (red), p2: 'TBD' (blue)
+=> Winner: TBD
+=> Game 3
+=> Params: n: 9, p1: 'TBD' (red), p2: 'YUKI_N' (blue)
+=> Winner: YUKI_N
+=> Game 4
+=> Params: n: 9, p1: 'YUKI_N' (red), p2: 'TBD' (blue)
+=> Winner: TBD
+=> Game t1
+=> Params: n: 7, p1: 'TBD' (red), p2: 'YUKI_N' (blue)
+=> Winner: YUKI_N
+=> Game t2
+=> Params: n: 7, p1: 'YUKI_N' (red), p2: 'TBD' (blue)
+=> Winner: TBD
+=> Game t3
+=> Params: n: 10, p1: 'TBD' (red), p2: 'YUKI_N' (blue)
+=> Winner: YUKI_N
+=> Game t4
+=> Params: n: 10, p1: 'YUKI_N' (red), p2: 'TBD' (blue)
+=> Winner: TBD
+=> Game t5
+=> Params: n: 6, p1: 'TBD' (red), p2: 'YUKI_N' (blue)
+=> Winner: TBD
+=> Game t6
+=> Params: n: 6, p1: 'YUKI_N' (red), p2: 'TBD' (blue)
+=> Winner: TBD
+=============================== Results summary ================================
+=> Wins 'TBD'     : 6
+=> Wins 'YUKI_N'  : 4
+=> Total draws    : 0
+=> Overall winner : TBD

@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 55 =====================
+============================ 'pygame' VS 'BETA_RUN' ============================
+=> Game 1
+=> Params: n: 8, p1: 'pygame' (red), p2: 'BETA_RUN' (blue)
+=> Winner: pygame
+=> Game 2
+=> Params: n: 8, p1: 'BETA_RUN' (red), p2: 'pygame' (blue)
+=> Winner: BETA_RUN
+=> Game 3
+=> Params: n: 9, p1: 'pygame' (red), p2: 'BETA_RUN' (blue)
+=> Winner: BETA_RUN
+=> Game 4
+=> Params: n: 9, p1: 'BETA_RUN' (red), p2: 'pygame' (blue)
+=> Winner: BETA_RUN
+=============================== Results summary ================================
+=> Wins 'pygame'   : 1
+=> Wins 'BETA_RUN' : 3
+=> Total draws     : 0
+=> Overall winner  : BETA_RUN

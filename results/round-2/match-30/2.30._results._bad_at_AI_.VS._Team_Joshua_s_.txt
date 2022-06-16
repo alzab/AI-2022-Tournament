@@ -1,0 +1,20 @@
+==================== Cachex tournament - Round 2, Match 30 =====================
+======================== 'bad_at_AI' VS 'Team_Joshua_s' ========================
+=> Game 1
+=> Params: n: 8, p1: 'bad_at_AI' (red), p2: 'Team_Joshua_s' (blue)
+=> Winner: bad_at_AI
+=> Game 2
+=> Params: n: 8, p1: 'Team_Joshua_s' (red), p2: 'bad_at_AI' (blue)
+=> Winner: Team_Joshua_s
+=> Game 3
+=> Params: n: 9, p1: 'bad_at_AI' (red), p2: 'Team_Joshua_s' (blue)
+=> Winner: bad_at_AI
+=> Game 4
+=> Params: n: 9, p1: 'Team_Joshua_s' (red), p2: 'bad_at_AI' (blue)
+error: red: illegal action ('PLACE', 8, 0)
+=> Winner: bad_at_AI
+=============================== Results summary ================================
+=> Wins 'bad_at_AI'     : 3
+=> Wins 'Team_Joshua_s' : 1
+=> Total draws          : 0
+=> Overall winner       : bad_at_AI

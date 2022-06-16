@@ -1,0 +1,2 @@
+error: blue: name 'Board' is not defined
+winner: red

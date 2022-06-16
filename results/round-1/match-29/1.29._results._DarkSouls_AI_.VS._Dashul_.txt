@@ -1,0 +1,21 @@
+==================== Cachex tournament - Round 1, Match 29 =====================
+========================== 'DarkSouls_AI' VS 'Dashul' ==========================
+=> Game 1
+=> Params: n: 8, p1: 'DarkSouls_AI' (red), p2: 'Dashul' (blue)
+=> Winner: DarkSouls_AI
+=> Game 2
+=> Params: n: 8, p1: 'Dashul' (red), p2: 'DarkSouls_AI' (blue)
+error: red: tuple index out of range
+=> Winner: DarkSouls_AI
+=> Game 3
+=> Params: n: 9, p1: 'DarkSouls_AI' (red), p2: 'Dashul' (blue)
+=> Winner: DarkSouls_AI
+=> Game 4
+=> Params: n: 9, p1: 'Dashul' (red), p2: 'DarkSouls_AI' (blue)
+error: red: tuple index out of range
+=> Winner: DarkSouls_AI
+=============================== Results summary ================================
+=> Wins 'DarkSouls_AI' : 4
+=> Wins 'Dashul'       : 0
+=> Total draws         : 0
+=> Overall winner      : DarkSouls_AI

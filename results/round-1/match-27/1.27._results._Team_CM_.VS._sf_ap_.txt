@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 27 =====================
+============================= 'Team_CM' VS 'sf_ap' =============================
+=> Game 1
+=> Params: n: 8, p1: 'Team_CM' (red), p2: 'sf_ap' (blue)
+=> Winner: Team_CM
+=> Game 2
+=> Params: n: 8, p1: 'sf_ap' (red), p2: 'Team_CM' (blue)
+=> Winner: Team_CM
+=> Game 3
+=> Params: n: 9, p1: 'Team_CM' (red), p2: 'sf_ap' (blue)
+=> Winner: Team_CM
+=> Game 4
+=> Params: n: 9, p1: 'sf_ap' (red), p2: 'Team_CM' (blue)
+=> Winner: Team_CM
+=============================== Results summary ================================
+=> Wins 'Team_CM' : 4
+=> Wins 'sf_ap'   : 0
+=> Total draws    : 0
+=> Overall winner : Team_CM

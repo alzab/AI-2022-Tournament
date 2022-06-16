@@ -1,0 +1,22 @@
+==================== Cachex tournament - Round 1, Match 20 =====================
+========================== 'Steins_Gate' VS 'alphaGo' ==========================
+=> Game 1
+=> Params: n: 8, p1: 'Steins_Gate' (red), p2: 'alphaGo' (blue)
+error: red: player 1 exceeded available time
+=> Winner: alphaGo
+=> Game 2
+=> Params: n: 8, p1: 'alphaGo' (red), p2: 'Steins_Gate' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: alphaGo
+=> Game 3
+=> Params: n: 9, p1: 'Steins_Gate' (red), p2: 'alphaGo' (blue)
+error: red: player 1 exceeded available time
+=> Winner: alphaGo
+=> Game 4
+=> Params: n: 9, p1: 'alphaGo' (red), p2: 'Steins_Gate' (blue)
+=> Winner: None
+=============================== Results summary ================================
+=> Wins 'Steins_Gate' : 0
+=> Wins 'alphaGo'     : 3
+=> Total draws        : 1
+=> Overall winner     : alphaGo

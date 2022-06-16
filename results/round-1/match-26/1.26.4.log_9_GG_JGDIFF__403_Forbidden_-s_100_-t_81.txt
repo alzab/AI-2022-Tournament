@@ -1,0 +1,2 @@
+error: red: 'Board' object has no attribute 'data'
+winner: blue

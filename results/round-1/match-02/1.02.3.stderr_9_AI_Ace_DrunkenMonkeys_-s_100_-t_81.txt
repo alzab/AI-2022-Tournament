@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "/opt/rh/rh-python36/root/usr/lib64/python3.6/runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/opt/rh/rh-python36/root/usr/lib64/python3.6/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/__main__.py", line 3, in <module>
+    main()
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/main.py", line 53, in main
+    log_filename=options.logfile,
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/game.py", line 140, in play
+    raise e
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/game.py", line 137, in play
+    player.turn(curr_player.colour, sanitised_action)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/player.py", line 68, in turn
+    self.player.turn(player, action)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/AI_Ace/player.py", line 97, in turn
+    (r, q) = action[1], action[2]
+IndexError: tuple index out of range

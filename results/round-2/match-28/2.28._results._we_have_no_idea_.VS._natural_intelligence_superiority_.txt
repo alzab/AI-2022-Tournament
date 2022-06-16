@@ -1,0 +1,23 @@
+==================== Cachex tournament - Round 2, Match 28 =====================
+=========== 'we_have_no_idea' VS 'natural_intelligence_superiority' ============
+=> Game 1
+=> Params: n: 8, p1: 'we_have_no_idea' (red), p2:
+   'natural_intelligence_superiority' (blue)
+=> Winner: we_have_no_idea
+=> Game 2
+=> Params: n: 8, p1: 'natural_intelligence_superiority' (red), p2:
+   'we_have_no_idea' (blue)
+=> Winner: we_have_no_idea
+=> Game 3
+=> Params: n: 9, p1: 'we_have_no_idea' (red), p2:
+   'natural_intelligence_superiority' (blue)
+=> Winner: we_have_no_idea
+=> Game 4
+=> Params: n: 9, p1: 'natural_intelligence_superiority' (red), p2:
+   'we_have_no_idea' (blue)
+=> Winner: we_have_no_idea
+=============================== Results summary ================================
+=> Wins 'we_have_no_idea'                  : 4
+=> Wins 'natural_intelligence_superiority' : 0
+=> Total draws                             : 0
+=> Overall winner                          : we_have_no_idea

@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 2, Match 01 =====================
+======================= 'DrunkenMonkeys' VS 'Involution' =======================
+=> Game 1
+=> Params: n: 8, p1: 'DrunkenMonkeys' (red), p2: 'Involution' (blue)
+=> Winner: Involution
+=> Game 2
+=> Params: n: 8, p1: 'Involution' (red), p2: 'DrunkenMonkeys' (blue)
+=> Winner: Involution
+=> Game 3
+=> Params: n: 9, p1: 'DrunkenMonkeys' (red), p2: 'Involution' (blue)
+=> Winner: Involution
+=> Game 4
+=> Params: n: 9, p1: 'Involution' (red), p2: 'DrunkenMonkeys' (blue)
+=> Winner: Involution
+=============================== Results summary ================================
+=> Wins 'DrunkenMonkeys' : 0
+=> Wins 'Involution'     : 4
+=> Total draws           : 0
+=> Overall winner        : Involution

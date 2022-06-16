@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 12 =====================
+========================== 'Ultron' VS 'New_Folder_2' ==========================
+=> Game 1
+=> Params: n: 8, p1: 'Ultron' (red), p2: 'New_Folder_2' (blue)
+=> Winner: New_Folder_2
+=> Game 2
+=> Params: n: 8, p1: 'New_Folder_2' (red), p2: 'Ultron' (blue)
+=> Winner: Ultron
+=> Game 3
+=> Params: n: 9, p1: 'Ultron' (red), p2: 'New_Folder_2' (blue)
+=> Winner: Ultron
+=> Game 4
+=> Params: n: 9, p1: 'New_Folder_2' (red), p2: 'Ultron' (blue)
+=> Winner: Ultron
+=============================== Results summary ================================
+=> Wins 'Ultron'       : 3
+=> Wins 'New_Folder_2' : 1
+=> Total draws         : 0
+=> Overall winner      : Ultron

@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 2, Match 17 =====================
+====================== 'eros_ramAzzottI' VS 'Elden_Ring' =======================
+=> Game 1
+=> Params: n: 8, p1: 'eros_ramAzzottI' (red), p2: 'Elden_Ring' (blue)
+=> Winner: Elden_Ring
+=> Game 2
+=> Params: n: 8, p1: 'Elden_Ring' (red), p2: 'eros_ramAzzottI' (blue)
+=> Winner: eros_ramAzzottI
+=> Game 3
+=> Params: n: 9, p1: 'eros_ramAzzottI' (red), p2: 'Elden_Ring' (blue)
+=> Winner: eros_ramAzzottI
+=> Game 4
+=> Params: n: 9, p1: 'Elden_Ring' (red), p2: 'eros_ramAzzottI' (blue)
+=> Winner: eros_ramAzzottI
+=============================== Results summary ================================
+=> Wins 'eros_ramAzzottI' : 3
+=> Wins 'Elden_Ring'      : 1
+=> Total draws            : 0
+=> Overall winner         : eros_ramAzzottI

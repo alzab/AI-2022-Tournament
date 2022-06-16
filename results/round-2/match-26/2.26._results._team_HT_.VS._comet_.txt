@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 2, Match 26 =====================
+============================= 'team_HT' VS 'comet' =============================
+=> Game 1
+=> Params: n: 8, p1: 'team_HT' (red), p2: 'comet' (blue)
+=> Winner: team_HT
+=> Game 2
+=> Params: n: 8, p1: 'comet' (red), p2: 'team_HT' (blue)
+=> Winner: comet
+=> Game 3
+=> Params: n: 9, p1: 'team_HT' (red), p2: 'comet' (blue)
+=> Winner: team_HT
+=> Game 4
+=> Params: n: 9, p1: 'comet' (red), p2: 'team_HT' (blue)
+=> Winner: team_HT
+=============================== Results summary ================================
+=> Wins 'team_HT' : 3
+=> Wins 'comet'   : 1
+=> Total draws    : 0
+=> Overall winner : team_HT

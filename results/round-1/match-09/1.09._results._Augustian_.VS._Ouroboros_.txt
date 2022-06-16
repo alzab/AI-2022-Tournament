@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 09 =====================
+========================== 'Augustian' VS 'Ouroboros' ==========================
+=> Game 1
+=> Params: n: 8, p1: 'Augustian' (red), p2: 'Ouroboros' (blue)
+=> Winner: Ouroboros
+=> Game 2
+=> Params: n: 8, p1: 'Ouroboros' (red), p2: 'Augustian' (blue)
+=> Winner: Ouroboros
+=> Game 3
+=> Params: n: 9, p1: 'Augustian' (red), p2: 'Ouroboros' (blue)
+=> Winner: Ouroboros
+=> Game 4
+=> Params: n: 9, p1: 'Ouroboros' (red), p2: 'Augustian' (blue)
+=> Winner: Ouroboros
+=============================== Results summary ================================
+=> Wins 'Augustian' : 0
+=> Wins 'Ouroboros' : 4
+=> Total draws      : 0
+=> Overall winner   : Ouroboros

@@ -1,0 +1,22 @@
+==================== Cachex tournament - Round 1, Match 07 =====================
+==================== 'Random_Group_12' VS 'slips_and_falls' ====================
+=> Game 1
+=> Params: n: 8, p1: 'Random_Group_12' (red), p2: 'slips_and_falls' (blue)
+error: red: tuple index out of range
+=> Winner: slips_and_falls
+=> Game 2
+=> Params: n: 8, p1: 'slips_and_falls' (red), p2: 'Random_Group_12' (blue)
+=> Winner: slips_and_falls
+=> Game 3
+=> Params: n: 9, p1: 'Random_Group_12' (red), p2: 'slips_and_falls' (blue)
+error: red: tuple index out of range
+=> Winner: slips_and_falls
+=> Game 4
+=> Params: n: 9, p1: 'slips_and_falls' (red), p2: 'Random_Group_12' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: slips_and_falls
+=============================== Results summary ================================
+=> Wins 'Random_Group_12' : 0
+=> Wins 'slips_and_falls' : 4
+=> Total draws            : 0
+=> Overall winner         : slips_and_falls

@@ -1,0 +1,4 @@
+turn 1: red: PLACE token in cell (1, 2); dt:1.3336000000002679e-05
+turn 2: blue: STEAL first move; dt:3.181799999998902e-05
+error: red: unsupported operand type(s) for +: 'int' and 'str'
+winner: blue

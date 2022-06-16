@@ -1,0 +1,23 @@
+==================== Cachex tournament - Round 3, Match 13 =====================
+============================ 'team_HT' VS 'KaiBai' =============================
+=> Game 1
+=> Params: n: 8, p1: 'team_HT' (red), p2: 'KaiBai' (blue)
+=> Winner: team_HT
+=> Game 2
+=> Params: n: 8, p1: 'KaiBai' (red), p2: 'team_HT' (blue)
+=> Winner: KaiBai
+=> Game 3
+=> Params: n: 9, p1: 'team_HT' (red), p2: 'KaiBai' (blue)
+=> Winner: KaiBai
+=> Game 4
+=> Params: n: 9, p1: 'KaiBai' (red), p2: 'team_HT' (blue)
+draw: same game state occurred                 7 times
+=> Winner: None
+=> Game t1
+=> Params: n: 7, p1: 'team_HT' (red), p2: 'KaiBai' (blue)
+=> Winner: KaiBai
+=============================== Results summary ================================
+=> Wins 'team_HT' : 1
+=> Wins 'KaiBai'  : 3
+=> Total draws    : 1
+=> Overall winner : KaiBai

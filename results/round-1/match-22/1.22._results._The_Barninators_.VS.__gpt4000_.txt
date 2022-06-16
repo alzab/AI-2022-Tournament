@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 22 =====================
+======================= 'The_Barninators' VS '_gpt4000' ========================
+=> Game 1
+=> Params: n: 8, p1: 'The_Barninators' (red), p2: '_gpt4000' (blue)
+=> Winner: The_Barninators
+=> Game 2
+=> Params: n: 8, p1: '_gpt4000' (red), p2: 'The_Barninators' (blue)
+=> Winner: The_Barninators
+=> Game 3
+=> Params: n: 9, p1: 'The_Barninators' (red), p2: '_gpt4000' (blue)
+=> Winner: The_Barninators
+=> Game 4
+=> Params: n: 9, p1: '_gpt4000' (red), p2: 'The_Barninators' (blue)
+=> Winner: The_Barninators
+=============================== Results summary ================================
+=> Wins 'The_Barninators' : 4
+=> Wins '_gpt4000'        : 0
+=> Total draws            : 0
+=> Overall winner         : The_Barninators

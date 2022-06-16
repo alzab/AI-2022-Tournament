@@ -1,0 +1,21 @@
+==================== Cachex tournament - Round 2, Match 05 =====================
+=========================== 'squidfam' VS 'team349' ============================
+=> Game 1
+=> Params: n: 8, p1: 'squidfam' (red), p2: 'team349' (blue)
+=> Winner: squidfam
+=> Game 2
+=> Params: n: 8, p1: 'team349' (red), p2: 'squidfam' (blue)
+error: red: can only concatenate tuple (not "int") to tuple
+=> Winner: squidfam
+=> Game 3
+=> Params: n: 9, p1: 'squidfam' (red), p2: 'team349' (blue)
+=> Winner: team349
+=> Game 4
+=> Params: n: 9, p1: 'team349' (red), p2: 'squidfam' (blue)
+error: red: can only concatenate tuple (not "int") to tuple
+=> Winner: squidfam
+=============================== Results summary ================================
+=> Wins 'squidfam' : 3
+=> Wins 'team349'  : 1
+=> Total draws     : 0
+=> Overall winner  : squidfam

@@ -1,0 +1,34 @@
+turn 1: red: PLACE token in cell (3, 4); dt:7.727499999998777e-05
+turn 2: blue: PLACE token in cell (1, 7); dt:0.027436346999999972
+turn 3: red: PLACE token in cell (2, 3); dt:2.857952573
+turn 4: blue: PLACE token in cell (0, 7); dt:0.026192775000000168
+turn 5: red: PLACE token in cell (4, 2); dt:1.7182097809999992
+turn 6: blue: PLACE token in cell (1, 0); dt:0.0247029809999999
+turn 7: red: PLACE token in cell (3, 2); dt:1.281263374
+turn 8: blue: PLACE token in cell (1, 5); dt:0.02542231499999925
+turn 9: red: PLACE token in cell (4, 3); dt:1.4099635390000005
+turn 10: blue: PLACE token in cell (2, 0); dt:0.02808176399999951
+turn 11: red: PLACE token in cell (2, 4); dt:0.6682521179999998
+turn 12: blue: PLACE token in cell (3, 0); dt:0.025530042999999836
+turn 13: red: PLACE token in cell (4, 4); dt:0.588459068999998
+turn 14: blue: PLACE token in cell (3, 3); dt:0.02857989399999994
+turn 15: red: PLACE token in cell (3, 5); dt:0.2818808119999989
+turn 16: blue: PLACE token in cell (1, 1); dt:0.029313520999998843
+turn 17: red: PLACE token in cell (2, 5); dt:0.09343111199999932
+turn 18: blue: PLACE token in cell (1, 6); dt:0.030935106999999462
+turn 19: red: PLACE token in cell (5, 2); dt:0.10931738299999871
+turn 20: blue: PLACE token in cell (0, 0); dt:0.031057679999999976
+turn 21: red: PLACE token in cell (5, 3); dt:3.0059000000193237e-05
+turn 22: blue: PLACE token in cell (3, 1); dt:0.031987532000000485
+turn 23: red: PLACE token in cell (5, 4); dt:0.019466662000001023
+turn 24: blue: PLACE token in cell (1, 3); dt:0.03235734499999943
+turn 25: red: PLACE token in cell (4, 5); dt:0.005494427000000357
+turn 26: blue: PLACE token in cell (1, 4); dt:0.0353777149999992
+turn 27: red: PLACE token in cell (2, 3); dt:0.021431645999999915
+turn 28: blue: PLACE token in cell (3, 7); dt:0.039307663999998965
+turn 29: red: PLACE token in cell (2, 4); dt:0.007849897000001604
+turn 30: blue: PLACE token in cell (4, 6); dt:0.03563864699999897
+turn 31: red: PLACE token in cell (3, 3); dt:0.006282757000001027
+turn 32: blue: PLACE token in cell (5, 0); dt:0.0334229889999999
+error: red: 'NoneType' object has no attribute 'r'
+winner: blue

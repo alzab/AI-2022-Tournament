@@ -1,0 +1,4 @@
+turn 1: red: PLACE token in cell (8, 8); dt:25.74503869
+turn 2: blue: STEAL first move; dt:1.556699999838429e-05
+error: red: tuple index out of range
+winner: blue

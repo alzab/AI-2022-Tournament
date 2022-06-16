@@ -1,0 +1,4 @@
+turn 1: red: PLACE token in cell (0, 0); dt:2.271899999997662e-05
+turn 2: blue: STEAL first move; dt:2.334400000000847e-05
+error: red: illegal action ('PLACE', 0, 0)
+winner: blue

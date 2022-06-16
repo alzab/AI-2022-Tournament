@@ -1,0 +1,38 @@
+==================== Cachex tournament - Round 4, Match 05 =====================
+============================ 'Ava' VS 'ELDEN_KING' =============================
+=> Game 1
+=> Params: n: 8, p1: 'Ava' (red), p2: 'ELDEN_KING' (blue)
+=> Winner: ELDEN_KING
+=> Game 2
+=> Params: n: 8, p1: 'ELDEN_KING' (red), p2: 'Ava' (blue)
+=> Winner: ELDEN_KING
+=> Game 3
+=> Params: n: 9, p1: 'Ava' (red), p2: 'ELDEN_KING' (blue)
+=> Winner: Ava
+=> Game 4
+=> Params: n: 9, p1: 'ELDEN_KING' (red), p2: 'Ava' (blue)
+=> Winner: Ava
+=> Game t1
+=> Params: n: 7, p1: 'Ava' (red), p2: 'ELDEN_KING' (blue)
+=> Winner: ELDEN_KING
+=> Game t2
+=> Params: n: 7, p1: 'ELDEN_KING' (red), p2: 'Ava' (blue)
+=> Winner: Ava
+=> Game t3
+=> Params: n: 10, p1: 'Ava' (red), p2: 'ELDEN_KING' (blue)
+=> Winner: Ava
+=> Game t4
+=> Params: n: 10, p1: 'ELDEN_KING' (red), p2: 'Ava' (blue)
+=> Winner: ELDEN_KING
+=> Game t5
+=> Params: n: 6, p1: 'Ava' (red), p2: 'ELDEN_KING' (blue)
+error: red: player 1 exceeded available time
+=> Winner: ELDEN_KING
+=> Game t6
+=> Params: n: 6, p1: 'ELDEN_KING' (red), p2: 'Ava' (blue)
+=> Winner: ELDEN_KING
+=============================== Results summary ================================
+=> Wins 'Ava'        : 4
+=> Wins 'ELDEN_KING' : 6
+=> Total draws       : 0
+=> Overall winner    : ELDEN_KING

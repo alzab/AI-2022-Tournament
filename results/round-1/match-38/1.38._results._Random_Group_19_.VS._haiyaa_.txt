@@ -1,0 +1,20 @@
+==================== Cachex tournament - Round 1, Match 38 =====================
+======================== 'Random_Group_19' VS 'haiyaa' =========================
+=> Game 1
+=> Params: n: 8, p1: 'Random_Group_19' (red), p2: 'haiyaa' (blue)
+=> Winner: haiyaa
+=> Game 2
+=> Params: n: 8, p1: 'haiyaa' (red), p2: 'Random_Group_19' (blue)
+=> Winner: haiyaa
+=> Game 3
+=> Params: n: 9, p1: 'Random_Group_19' (red), p2: 'haiyaa' (blue)
+error: red: player 1 exceeded available time
+=> Winner: haiyaa
+=> Game 4
+=> Params: n: 9, p1: 'haiyaa' (red), p2: 'Random_Group_19' (blue)
+=> Winner: haiyaa
+=============================== Results summary ================================
+=> Wins 'Random_Group_19' : 0
+=> Wins 'haiyaa'          : 4
+=> Total draws            : 0
+=> Overall winner         : haiyaa

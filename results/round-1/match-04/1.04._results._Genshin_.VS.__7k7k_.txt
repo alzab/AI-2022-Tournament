@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 04 =====================
+============================= 'Genshin' VS '_7k7k' =============================
+=> Game 1
+=> Params: n: 8, p1: 'Genshin' (red), p2: '_7k7k' (blue)
+=> Winner: _7k7k
+=> Game 2
+=> Params: n: 8, p1: '_7k7k' (red), p2: 'Genshin' (blue)
+=> Winner: _7k7k
+=> Game 3
+=> Params: n: 9, p1: 'Genshin' (red), p2: '_7k7k' (blue)
+=> Winner: _7k7k
+=> Game 4
+=> Params: n: 9, p1: '_7k7k' (red), p2: 'Genshin' (blue)
+=> Winner: _7k7k
+=============================== Results summary ================================
+=> Wins 'Genshin' : 0
+=> Wins '_7k7k'   : 4
+=> Total draws    : 0
+=> Overall winner : _7k7k

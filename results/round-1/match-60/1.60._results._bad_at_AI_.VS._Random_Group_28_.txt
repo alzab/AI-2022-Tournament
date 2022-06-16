@@ -1,0 +1,21 @@
+==================== Cachex tournament - Round 1, Match 60 =====================
+======================= 'bad_at_AI' VS 'Random_Group_28' =======================
+=> Game 1
+=> Params: n: 8, p1: 'bad_at_AI' (red), p2: 'Random_Group_28' (blue)
+=> Winner: bad_at_AI
+=> Game 2
+=> Params: n: 8, p1: 'Random_Group_28' (red), p2: 'bad_at_AI' (blue)
+error: red: local variable 'closest' referenced before assignment
+=> Winner: bad_at_AI
+=> Game 3
+=> Params: n: 9, p1: 'bad_at_AI' (red), p2: 'Random_Group_28' (blue)
+=> Winner: bad_at_AI
+=> Game 4
+=> Params: n: 9, p1: 'Random_Group_28' (red), p2: 'bad_at_AI' (blue)
+error: red: local variable 'closest' referenced before assignment
+=> Winner: bad_at_AI
+=============================== Results summary ================================
+=> Wins 'bad_at_AI'       : 4
+=> Wins 'Random_Group_28' : 0
+=> Total draws            : 0
+=> Overall winner         : bad_at_AI

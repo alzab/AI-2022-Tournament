@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 6, Match 00 =====================
+===================== 'slips_and_falls' VS 'DarkSouls_AI' ======================
+=> Game 1
+=> Params: n: 8, p1: 'slips_and_falls' (red), p2: 'DarkSouls_AI' (blue)
+=> Winner: slips_and_falls
+=> Game 2
+=> Params: n: 8, p1: 'DarkSouls_AI' (red), p2: 'slips_and_falls' (blue)
+=> Winner: slips_and_falls
+=> Game 3
+=> Params: n: 9, p1: 'slips_and_falls' (red), p2: 'DarkSouls_AI' (blue)
+=> Winner: slips_and_falls
+=> Game 4
+=> Params: n: 9, p1: 'DarkSouls_AI' (red), p2: 'slips_and_falls' (blue)
+=> Winner: slips_and_falls
+=============================== Results summary ================================
+=> Wins 'slips_and_falls' : 4
+=> Wins 'DarkSouls_AI'    : 0
+=> Total draws            : 0
+=> Overall winner         : slips_and_falls

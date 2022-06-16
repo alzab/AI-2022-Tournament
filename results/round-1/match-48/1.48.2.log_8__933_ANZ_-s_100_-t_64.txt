@@ -1,0 +1,8 @@
+turn 1: red: PLACE token in cell (0, 4); dt:8.017000000026808e-06
+turn 2: blue: STEAL first move; dt:2.3676999999999726e-05
+turn 3: red: PLACE token in cell (5, 4); dt:19.103557561
+turn 4: blue: PLACE token in cell (4, 1); dt:0.40525301499999955
+turn 5: red: PLACE token in cell (4, 6); dt:31.673194841999994
+turn 6: blue: PLACE token in cell (4, 2); dt:1.2920138240000014
+error: red: player 1 exceeded available time
+winner: blue

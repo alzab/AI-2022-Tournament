@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 2, Match 02 =====================
+============================ '_7k7k' VS 'metaverse' ============================
+=> Game 1
+=> Params: n: 8, p1: '_7k7k' (red), p2: 'metaverse' (blue)
+=> Winner: metaverse
+=> Game 2
+=> Params: n: 8, p1: 'metaverse' (red), p2: '_7k7k' (blue)
+=> Winner: _7k7k
+=> Game 3
+=> Params: n: 9, p1: '_7k7k' (red), p2: 'metaverse' (blue)
+=> Winner: metaverse
+=> Game 4
+=> Params: n: 9, p1: 'metaverse' (red), p2: '_7k7k' (blue)
+=> Winner: metaverse
+=============================== Results summary ================================
+=> Wins '_7k7k'     : 1
+=> Wins 'metaverse' : 3
+=> Total draws      : 0
+=> Overall winner   : metaverse

@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 42 =====================
+==================== 'Random_Group_4' VS 'random_group_18' =====================
+=> Game 1
+=> Params: n: 8, p1: 'Random_Group_4' (red), p2: 'random_group_18' (blue)
+=> Winner: random_group_18
+=> Game 2
+=> Params: n: 8, p1: 'random_group_18' (red), p2: 'Random_Group_4' (blue)
+=> Winner: random_group_18
+=> Game 3
+=> Params: n: 9, p1: 'Random_Group_4' (red), p2: 'random_group_18' (blue)
+=> Winner: random_group_18
+=> Game 4
+=> Params: n: 9, p1: 'random_group_18' (red), p2: 'Random_Group_4' (blue)
+=> Winner: random_group_18
+=============================== Results summary ================================
+=> Wins 'Random_Group_4'  : 0
+=> Wins 'random_group_18' : 4
+=> Total draws            : 0
+=> Overall winner         : random_group_18

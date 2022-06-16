@@ -1,0 +1,13 @@
+turn 1: red: PLACE token in cell (8, 0); dt:1.6495999999976974e-05
+turn 2: blue: PLACE token in cell (8, 8); dt:22.451056402000003
+turn 3: red: PLACE token in cell (7, 0); dt:0.07599382600000126
+turn 4: blue: PLACE token in cell (8, 7); dt:18.784220814999998
+turn 5: red: PLACE token in cell (6, 0); dt:0.17803757099999729
+turn 6: blue: PLACE token in cell (8, 6); dt:16.416292967000004
+turn 7: red: PLACE token in cell (5, 0); dt:0.3231341080000049
+turn 8: blue: PLACE token in cell (8, 5); dt:13.007369550999996
+turn 9: red: PLACE token in cell (4, 0); dt:0.47627679800000067
+turn 10: blue: PLACE token in cell (8, 4); dt:10.001470433999998
+turn 11: red: PLACE token in cell (3, 0); dt:0.701766089000003
+error: blue: player 2 exceeded available time
+winner: red

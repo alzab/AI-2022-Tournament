@@ -1,0 +1,20 @@
+turn 1: red: PLACE token in cell (5, 3); dt:1.1757000000001128e-05
+turn 2: blue: STEAL first move; dt:1.250199999999757e-05
+turn 3: red: PLACE token in cell (3, 4); dt:4.149273072
+turn 4: blue: PLACE token in cell (0, 0); dt:5.361561561
+turn 5: red: PLACE token in cell (2, 3); dt:3.6235278369999993
+turn 6: blue: PLACE token in cell (8, 8); dt:5.451180435000001
+turn 7: red: PLACE token in cell (1, 3); dt:7.591324265000002
+turn 8: blue: PLACE token in cell (1, 2); dt:5.108061240999998
+turn 9: red: PLACE token in cell (0, 4); dt:7.991606089000005
+turn 10: blue: PLACE token in cell (6, 7); dt:4.994669092999999
+turn 11: red: PLACE token in cell (0, 3); dt:8.864968345999998
+turn 12: blue: PLACE token in cell (0, 6); dt:4.850229451000004
+turn 13: red: PLACE token in cell (1, 5); dt:9.917513407000008
+turn 14: blue: PLACE token in cell (4, 1); dt:4.873807435000003
+turn 15: red: PLACE token in cell (3, 3); dt:10.685914959999991
+turn 16: blue: PLACE token in cell (7, 3); dt:4.794095513000006
+turn 17: red: PLACE token in cell (4, 3); dt:18.700389916000006
+turn 18: blue: PLACE token in cell (8, 0); dt:4.4347484549999905
+error: red: player 1 exceeded available time
+winner: blue

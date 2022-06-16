@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 2, Match 06 =====================
+============================= 'Ultron' VS 'teamZ' ==============================
+=> Game 1
+=> Params: n: 8, p1: 'Ultron' (red), p2: 'teamZ' (blue)
+=> Winner: teamZ
+=> Game 2
+=> Params: n: 8, p1: 'teamZ' (red), p2: 'Ultron' (blue)
+=> Winner: teamZ
+=> Game 3
+=> Params: n: 9, p1: 'Ultron' (red), p2: 'teamZ' (blue)
+=> Winner: teamZ
+=> Game 4
+=> Params: n: 9, p1: 'teamZ' (red), p2: 'Ultron' (blue)
+=> Winner: Ultron
+=============================== Results summary ================================
+=> Wins 'Ultron'  : 1
+=> Wins 'teamZ'   : 3
+=> Total draws    : 0
+=> Overall winner : teamZ

@@ -1,0 +1,23 @@
+==================== Cachex tournament - Round 1, Match 01 =====================
+========================= 'random_group_1' VS 'Nocom' ==========================
+=> Game 1
+=> Params: n: 8, p1: 'random_group_1' (red), p2: 'Nocom' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: random_group_1
+=> Game 2
+=> Params: n: 8, p1: 'Nocom' (red), p2: 'random_group_1' (blue)
+error: red: player 1 exceeded available time
+=> Winner: random_group_1
+=> Game 3
+=> Params: n: 9, p1: 'random_group_1' (red), p2: 'Nocom' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: random_group_1
+=> Game 4
+=> Params: n: 9, p1: 'Nocom' (red), p2: 'random_group_1' (blue)
+error: red: player 1 exceeded available time
+=> Winner: random_group_1
+=============================== Results summary ================================
+=> Wins 'random_group_1' : 4
+=> Wins 'Nocom'          : 0
+=> Total draws           : 0
+=> Overall winner        : random_group_1

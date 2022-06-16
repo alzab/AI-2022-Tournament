@@ -1,0 +1,31 @@
+==================== Cachex tournament - Round 1, Match 23 =====================
+======================== 'TY_next' VS 'Random_Group_7' =========================
+=> Game 1
+=> Params: n: 8, p1: 'TY_next' (red), p2: 'Random_Group_7' (blue)
+=> Winner: TY_next
+=> Game 2
+=> Params: n: 8, p1: 'Random_Group_7' (red), p2: 'TY_next' (blue)
+=> Winner: TY_next
+=> Game 3
+=> Params: n: 9, p1: 'TY_next' (red), p2: 'Random_Group_7' (blue)
+=> Winner: Random_Group_7
+=> Game 4
+=> Params: n: 9, p1: 'Random_Group_7' (red), p2: 'TY_next' (blue)
+=> Winner: Random_Group_7
+=> Game t1
+=> Params: n: 7, p1: 'TY_next' (red), p2: 'Random_Group_7' (blue)
+=> Winner: Random_Group_7
+=> Game t2
+=> Params: n: 7, p1: 'Random_Group_7' (red), p2: 'TY_next' (blue)
+=> Winner: TY_next
+=> Game t3
+=> Params: n: 10, p1: 'TY_next' (red), p2: 'Random_Group_7' (blue)
+=> Winner: Random_Group_7
+=> Game t4
+=> Params: n: 10, p1: 'Random_Group_7' (red), p2: 'TY_next' (blue)
+=> Winner: Random_Group_7
+=============================== Results summary ================================
+=> Wins 'TY_next'        : 3
+=> Wins 'Random_Group_7' : 5
+=> Total draws           : 0
+=> Overall winner        : Random_Group_7

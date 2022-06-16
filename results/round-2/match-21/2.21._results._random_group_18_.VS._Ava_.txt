@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 2, Match 21 =====================
+========================== 'random_group_18' VS 'Ava' ==========================
+=> Game 1
+=> Params: n: 8, p1: 'random_group_18' (red), p2: 'Ava' (blue)
+=> Winner: Ava
+=> Game 2
+=> Params: n: 8, p1: 'Ava' (red), p2: 'random_group_18' (blue)
+=> Winner: Ava
+=> Game 3
+=> Params: n: 9, p1: 'random_group_18' (red), p2: 'Ava' (blue)
+=> Winner: Ava
+=> Game 4
+=> Params: n: 9, p1: 'Ava' (red), p2: 'random_group_18' (blue)
+=> Winner: Ava
+=============================== Results summary ================================
+=> Wins 'random_group_18' : 0
+=> Wins 'Ava'             : 4
+=> Total draws            : 0
+=> Overall winner         : Ava

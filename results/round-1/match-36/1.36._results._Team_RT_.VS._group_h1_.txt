@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 36 =====================
+=========================== 'Team_RT' VS 'group_h1' ============================
+=> Game 1
+=> Params: n: 8, p1: 'Team_RT' (red), p2: 'group_h1' (blue)
+=> Winner: group_h1
+=> Game 2
+=> Params: n: 8, p1: 'group_h1' (red), p2: 'Team_RT' (blue)
+=> Winner: group_h1
+=> Game 3
+=> Params: n: 9, p1: 'Team_RT' (red), p2: 'group_h1' (blue)
+=> Winner: group_h1
+=> Game 4
+=> Params: n: 9, p1: 'group_h1' (red), p2: 'Team_RT' (blue)
+=> Winner: group_h1
+=============================== Results summary ================================
+=> Wins 'Team_RT'  : 0
+=> Wins 'group_h1' : 4
+=> Total draws     : 0
+=> Overall winner  : group_h1

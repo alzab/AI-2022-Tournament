@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 14 =====================
+================== 'UhhYesDefinitelyAbsolutely' VS 'Team_QY' ===================
+=> Game 1
+=> Params: n: 8, p1: 'UhhYesDefinitelyAbsolutely' (red), p2: 'Team_QY' (blue)
+=> Winner: UhhYesDefinitelyAbsolutely
+=> Game 2
+=> Params: n: 8, p1: 'Team_QY' (red), p2: 'UhhYesDefinitelyAbsolutely' (blue)
+=> Winner: UhhYesDefinitelyAbsolutely
+=> Game 3
+=> Params: n: 9, p1: 'UhhYesDefinitelyAbsolutely' (red), p2: 'Team_QY' (blue)
+=> Winner: UhhYesDefinitelyAbsolutely
+=> Game 4
+=> Params: n: 9, p1: 'Team_QY' (red), p2: 'UhhYesDefinitelyAbsolutely' (blue)
+=> Winner: UhhYesDefinitelyAbsolutely
+=============================== Results summary ================================
+=> Wins 'UhhYesDefinitelyAbsolutely' : 4
+=> Wins 'Team_QY'                    : 0
+=> Total draws                       : 0
+=> Overall winner                    : UhhYesDefinitelyAbsolutely

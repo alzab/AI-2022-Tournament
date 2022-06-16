@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 2, Match 11 =====================
+==================== 'The_Barninators' VS 'Random_Group_7' =====================
+=> Game 1
+=> Params: n: 8, p1: 'The_Barninators' (red), p2: 'Random_Group_7' (blue)
+=> Winner: The_Barninators
+=> Game 2
+=> Params: n: 8, p1: 'Random_Group_7' (red), p2: 'The_Barninators' (blue)
+=> Winner: The_Barninators
+=> Game 3
+=> Params: n: 9, p1: 'The_Barninators' (red), p2: 'Random_Group_7' (blue)
+=> Winner: The_Barninators
+=> Game 4
+=> Params: n: 9, p1: 'Random_Group_7' (red), p2: 'The_Barninators' (blue)
+=> Winner: The_Barninators
+=============================== Results summary ================================
+=> Wins 'The_Barninators' : 4
+=> Wins 'Random_Group_7'  : 0
+=> Total draws            : 0
+=> Overall winner         : The_Barninators

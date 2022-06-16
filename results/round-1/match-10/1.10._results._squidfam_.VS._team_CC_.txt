@@ -1,0 +1,20 @@
+==================== Cachex tournament - Round 1, Match 10 =====================
+=========================== 'squidfam' VS 'team_CC' ============================
+=> Game 1
+=> Params: n: 8, p1: 'squidfam' (red), p2: 'team_CC' (blue)
+=> Winner: squidfam
+=> Game 2
+=> Params: n: 8, p1: 'team_CC' (red), p2: 'squidfam' (blue)
+=> Winner: squidfam
+=> Game 3
+=> Params: n: 9, p1: 'squidfam' (red), p2: 'team_CC' (blue)
+=> Winner: squidfam
+=> Game 4
+=> Params: n: 9, p1: 'team_CC' (red), p2: 'squidfam' (blue)
+error: red: player 1 exceeded available time
+=> Winner: squidfam
+=============================== Results summary ================================
+=> Wins 'squidfam' : 4
+=> Wins 'team_CC'  : 0
+=> Total draws     : 0
+=> Overall winner  : squidfam

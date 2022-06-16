@@ -1,0 +1,23 @@
+==================== Cachex tournament - Round 1, Match 48 =====================
+=============================== 'ANZ' VS '_933' ================================
+=> Game 1
+=> Params: n: 8, p1: 'ANZ' (red), p2: '_933' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: ANZ
+=> Game 2
+=> Params: n: 8, p1: '_933' (red), p2: 'ANZ' (blue)
+error: red: player 1 exceeded available time
+=> Winner: ANZ
+=> Game 3
+=> Params: n: 9, p1: 'ANZ' (red), p2: '_933' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: ANZ
+=> Game 4
+=> Params: n: 9, p1: '_933' (red), p2: 'ANZ' (blue)
+error: red: player 1 exceeded available time
+=> Winner: ANZ
+=============================== Results summary ================================
+=> Wins 'ANZ'     : 4
+=> Wins '_933'    : 0
+=> Total draws    : 0
+=> Overall winner : ANZ

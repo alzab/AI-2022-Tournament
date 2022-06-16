@@ -1,0 +1,21 @@
+==================== Cachex tournament - Round 3, Match 05 =====================
+======================== 'alphaGo' VS 'The_Barninators' ========================
+=> Game 1
+=> Params: n: 8, p1: 'alphaGo' (red), p2: 'The_Barninators' (blue)
+draw: same game state occurred                 7 times
+=> Winner: None
+=> Game 2
+=> Params: n: 8, p1: 'The_Barninators' (red), p2: 'alphaGo' (blue)
+=> Winner: The_Barninators
+=> Game 3
+=> Params: n: 9, p1: 'alphaGo' (red), p2: 'The_Barninators' (blue)
+draw: same game state occurred                 7 times
+=> Winner: None
+=> Game 4
+=> Params: n: 9, p1: 'The_Barninators' (red), p2: 'alphaGo' (blue)
+=> Winner: The_Barninators
+=============================== Results summary ================================
+=> Wins 'alphaGo'         : 0
+=> Wins 'The_Barninators' : 2
+=> Total draws            : 2
+=> Overall winner         : The_Barninators

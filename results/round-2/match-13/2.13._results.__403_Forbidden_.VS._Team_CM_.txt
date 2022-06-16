@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 2, Match 13 =====================
+======================== '_403_Forbidden' VS 'Team_CM' =========================
+=> Game 1
+=> Params: n: 8, p1: '_403_Forbidden' (red), p2: 'Team_CM' (blue)
+=> Winner: _403_Forbidden
+=> Game 2
+=> Params: n: 8, p1: 'Team_CM' (red), p2: '_403_Forbidden' (blue)
+=> Winner: _403_Forbidden
+=> Game 3
+=> Params: n: 9, p1: '_403_Forbidden' (red), p2: 'Team_CM' (blue)
+=> Winner: _403_Forbidden
+=> Game 4
+=> Params: n: 9, p1: 'Team_CM' (red), p2: '_403_Forbidden' (blue)
+=> Winner: _403_Forbidden
+=============================== Results summary ================================
+=> Wins '_403_Forbidden' : 4
+=> Wins 'Team_CM'        : 0
+=> Total draws           : 0
+=> Overall winner        : _403_Forbidden

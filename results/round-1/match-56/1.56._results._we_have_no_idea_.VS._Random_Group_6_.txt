@@ -1,0 +1,22 @@
+==================== Cachex tournament - Round 1, Match 56 =====================
+==================== 'we_have_no_idea' VS 'Random_Group_6' =====================
+=> Game 1
+=> Params: n: 8, p1: 'we_have_no_idea' (red), p2: 'Random_Group_6' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: we_have_no_idea
+=> Game 2
+=> Params: n: 8, p1: 'Random_Group_6' (red), p2: 'we_have_no_idea' (blue)
+=> Winner: Random_Group_6
+=> Game 3
+=> Params: n: 9, p1: 'we_have_no_idea' (red), p2: 'Random_Group_6' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: we_have_no_idea
+=> Game 4
+=> Params: n: 9, p1: 'Random_Group_6' (red), p2: 'we_have_no_idea' (blue)
+error: red: player 1 exceeded available time
+=> Winner: we_have_no_idea
+=============================== Results summary ================================
+=> Wins 'we_have_no_idea' : 3
+=> Wins 'Random_Group_6'  : 1
+=> Total draws            : 0
+=> Overall winner         : we_have_no_idea

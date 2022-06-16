@@ -1,0 +1,32 @@
+==================== Cachex tournament - Round 1, Match 54 =====================
+========================== 'Spicy_Banana' VS 'KaiBai' ==========================
+=> Game 1
+=> Params: n: 8, p1: 'Spicy_Banana' (red), p2: 'KaiBai' (blue)
+=> Winner: Spicy_Banana
+=> Game 2
+=> Params: n: 8, p1: 'KaiBai' (red), p2: 'Spicy_Banana' (blue)
+=> Winner: KaiBai
+=> Game 3
+=> Params: n: 9, p1: 'Spicy_Banana' (red), p2: 'KaiBai' (blue)
+=> Winner: Spicy_Banana
+=> Game 4
+=> Params: n: 9, p1: 'KaiBai' (red), p2: 'Spicy_Banana' (blue)
+=> Winner: KaiBai
+=> Game t1
+=> Params: n: 7, p1: 'Spicy_Banana' (red), p2: 'KaiBai' (blue)
+=> Winner: KaiBai
+=> Game t2
+=> Params: n: 7, p1: 'KaiBai' (red), p2: 'Spicy_Banana' (blue)
+=> Winner: Spicy_Banana
+=> Game t3
+=> Params: n: 10, p1: 'Spicy_Banana' (red), p2: 'KaiBai' (blue)
+error: red: illegal action ('PLACE', 0, 0)
+=> Winner: KaiBai
+=> Game t4
+=> Params: n: 10, p1: 'KaiBai' (red), p2: 'Spicy_Banana' (blue)
+=> Winner: KaiBai
+=============================== Results summary ================================
+=> Wins 'Spicy_Banana' : 3
+=> Wins 'KaiBai'       : 5
+=> Total draws         : 0
+=> Overall winner      : KaiBai

@@ -1,0 +1,21 @@
+==================== Cachex tournament - Round 1, Match 49 =====================
+========================== 'tenuOS' VS 'donkeyBrain' ===========================
+=> Game 1
+=> Params: n: 8, p1: 'tenuOS' (red), p2: 'donkeyBrain' (blue)
+error: blue: (3, 7)
+=> Winner: tenuOS
+=> Game 2
+=> Params: n: 8, p1: 'donkeyBrain' (red), p2: 'tenuOS' (blue)
+=> Winner: tenuOS
+=> Game 3
+=> Params: n: 9, p1: 'tenuOS' (red), p2: 'donkeyBrain' (blue)
+error: blue: (2, 3)
+=> Winner: tenuOS
+=> Game 4
+=> Params: n: 9, p1: 'donkeyBrain' (red), p2: 'tenuOS' (blue)
+=> Winner: tenuOS
+=============================== Results summary ================================
+=> Wins 'tenuOS'      : 4
+=> Wins 'donkeyBrain' : 0
+=> Total draws        : 0
+=> Overall winner     : tenuOS

@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 5, Match 03 =====================
+======================== 'KaiBai' VS 'we_have_no_idea' =========================
+=> Game 1
+=> Params: n: 8, p1: 'KaiBai' (red), p2: 'we_have_no_idea' (blue)
+=> Winner: we_have_no_idea
+=> Game 2
+=> Params: n: 8, p1: 'we_have_no_idea' (red), p2: 'KaiBai' (blue)
+=> Winner: we_have_no_idea
+=> Game 3
+=> Params: n: 9, p1: 'KaiBai' (red), p2: 'we_have_no_idea' (blue)
+=> Winner: we_have_no_idea
+=> Game 4
+=> Params: n: 9, p1: 'we_have_no_idea' (red), p2: 'KaiBai' (blue)
+=> Winner: we_have_no_idea
+=============================== Results summary ================================
+=> Wins 'KaiBai'          : 0
+=> Wins 'we_have_no_idea' : 4
+=> Total draws            : 0
+=> Overall winner         : we_have_no_idea

@@ -1,0 +1,49 @@
+==================== Cachex tournament - Round 1, Match 40 =====================
+=========================== 'X_Gorithm' VS 'EDRAAK' ============================
+=> Game 1
+=> Params: n: 8, p1: 'X_Gorithm' (red), p2: 'EDRAAK' (blue)
+=> Winner: X_Gorithm
+=> Game 2
+=> Params: n: 8, p1: 'EDRAAK' (red), p2: 'X_Gorithm' (blue)
+=> Winner: EDRAAK
+=> Game 3
+=> Params: n: 9, p1: 'X_Gorithm' (red), p2: 'EDRAAK' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: X_Gorithm
+=> Game 4
+=> Params: n: 9, p1: 'EDRAAK' (red), p2: 'X_Gorithm' (blue)
+=> Winner: EDRAAK
+=> Game t1
+=> Params: n: 7, p1: 'X_Gorithm' (red), p2: 'EDRAAK' (blue)
+=> Winner: X_Gorithm
+=> Game t2
+=> Params: n: 7, p1: 'EDRAAK' (red), p2: 'X_Gorithm' (blue)
+=> Winner: EDRAAK
+=> Game t3
+=> Params: n: 10, p1: 'X_Gorithm' (red), p2: 'EDRAAK' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: X_Gorithm
+=> Game t4
+=> Params: n: 10, p1: 'EDRAAK' (red), p2: 'X_Gorithm' (blue)
+=> Winner: EDRAAK
+=> Game t5
+=> Params: n: 6, p1: 'X_Gorithm' (red), p2: 'EDRAAK' (blue)
+=> Winner: X_Gorithm
+=> Game t6
+=> Params: n: 6, p1: 'EDRAAK' (red), p2: 'X_Gorithm' (blue)
+=> Winner: EDRAAK
+=> Game t7
+=> Params: n: 11, p1: 'X_Gorithm' (red), p2: 'EDRAAK' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: X_Gorithm
+=> Game t8
+=> Params: n: 11, p1: 'EDRAAK' (red), p2: 'X_Gorithm' (blue)
+=> Winner: EDRAAK
+=> Game t9
+=> Params: n: 5, p1: 'X_Gorithm' (red), p2: 'EDRAAK' (blue)
+=> Winner: EDRAAK
+=============================== Results summary ================================
+=> Wins 'X_Gorithm' : 6
+=> Wins 'EDRAAK'    : 7
+=> Total draws      : 0
+=> Overall winner   : EDRAAK

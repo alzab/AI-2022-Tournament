@@ -1,0 +1,24 @@
+==================== Cachex tournament - Round 1, Match 58 =====================
+=============== 'Random_Group_16' VS 'artificial_unintelligence' ===============
+=> Game 1
+=> Params: n: 8, p1: 'Random_Group_16' (red), p2: 'artificial_unintelligence'
+   (blue)
+=> Winner: artificial_unintelligence
+=> Game 2
+=> Params: n: 8, p1: 'artificial_unintelligence' (red), p2: 'Random_Group_16'
+   (blue)
+=> Winner: artificial_unintelligence
+=> Game 3
+=> Params: n: 9, p1: 'Random_Group_16' (red), p2: 'artificial_unintelligence'
+   (blue)
+=> Winner: artificial_unintelligence
+=> Game 4
+=> Params: n: 9, p1: 'artificial_unintelligence' (red), p2: 'Random_Group_16'
+   (blue)
+error: red: player 1 exceeded available time
+=> Winner: Random_Group_16
+=============================== Results summary ================================
+=> Wins 'Random_Group_16'           : 1
+=> Wins 'artificial_unintelligence' : 3
+=> Total draws                      : 0
+=> Overall winner                   : artificial_unintelligence

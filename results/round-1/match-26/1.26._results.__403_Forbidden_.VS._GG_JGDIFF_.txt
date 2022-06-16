@@ -1,0 +1,23 @@
+==================== Cachex tournament - Round 1, Match 26 =====================
+======================= '_403_Forbidden' VS 'GG_JGDIFF' ========================
+=> Game 1
+=> Params: n: 8, p1: '_403_Forbidden' (red), p2: 'GG_JGDIFF' (blue)
+error: blue: 'Board' object has no attribute 'data'
+=> Winner: _403_Forbidden
+=> Game 2
+=> Params: n: 8, p1: 'GG_JGDIFF' (red), p2: '_403_Forbidden' (blue)
+error: red: 'Board' object has no attribute 'data'
+=> Winner: _403_Forbidden
+=> Game 3
+=> Params: n: 9, p1: '_403_Forbidden' (red), p2: 'GG_JGDIFF' (blue)
+error: blue: 'Board' object has no attribute 'data'
+=> Winner: _403_Forbidden
+=> Game 4
+=> Params: n: 9, p1: 'GG_JGDIFF' (red), p2: '_403_Forbidden' (blue)
+error: red: 'Board' object has no attribute 'data'
+=> Winner: _403_Forbidden
+=============================== Results summary ================================
+=> Wins '_403_Forbidden' : 4
+=> Wins 'GG_JGDIFF'      : 0
+=> Total draws           : 0
+=> Overall winner        : _403_Forbidden

@@ -1,0 +1,26 @@
+==================== Cachex tournament - Round 2, Match 25 =====================
+==================== 'nothing_in_particular' VS 'alcos_inc' ====================
+=> Game 1
+=> Params: n: 8, p1: 'nothing_in_particular' (red), p2: 'alcos_inc' (blue)
+=> Winner: alcos_inc
+=> Game 2
+=> Params: n: 8, p1: 'alcos_inc' (red), p2: 'nothing_in_particular' (blue)
+=> Winner: nothing_in_particular
+=> Game 3
+=> Params: n: 9, p1: 'nothing_in_particular' (red), p2: 'alcos_inc' (blue)
+=> Winner: alcos_inc
+=> Game 4
+=> Params: n: 9, p1: 'alcos_inc' (red), p2: 'nothing_in_particular' (blue)
+error: red: illegal action ('PLACE', 6, 6)
+=> Winner: nothing_in_particular
+=> Game t1
+=> Params: n: 7, p1: 'nothing_in_particular' (red), p2: 'alcos_inc' (blue)
+=> Winner: nothing_in_particular
+=> Game t2
+=> Params: n: 7, p1: 'alcos_inc' (red), p2: 'nothing_in_particular' (blue)
+=> Winner: nothing_in_particular
+=============================== Results summary ================================
+=> Wins 'nothing_in_particular' : 4
+=> Wins 'alcos_inc'             : 2
+=> Total draws                  : 0
+=> Overall winner               : nothing_in_particular

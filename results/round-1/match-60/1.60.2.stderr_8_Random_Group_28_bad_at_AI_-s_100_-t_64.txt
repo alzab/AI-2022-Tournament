@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "/opt/rh/rh-python36/root/usr/lib64/python3.6/runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/opt/rh/rh-python36/root/usr/lib64/python3.6/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/__main__.py", line 3, in <module>
+    main()
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/main.py", line 53, in main
+    log_filename=options.logfile,
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/game.py", line 129, in play
+    raise e
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/game.py", line 121, in play
+    action = curr_player.action()
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/player.py", line 57, in action
+    action = self.player.action()
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/Random_Group_28/player.py", line 64, in action
+    r, q = self.controller.get_move(self.player, player_moves, self.board)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/Random_Group_28/Controller.py", line 114, in get_move
+    best_moves = self.evaluate_board(player, board)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/Random_Group_28/Controller.py", line 24, in evaluate_board
+    available_moves = board.queued_empty_hexes(player)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/Random_Group_28/Board.py", line 320, in queued_empty_hexes
+    r2, q2 = closest
+UnboundLocalError: local variable 'closest' referenced before assignment

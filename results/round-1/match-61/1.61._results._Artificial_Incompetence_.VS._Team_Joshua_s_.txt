@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 61 =====================
+================= 'Artificial_Incompetence' VS 'Team_Joshua_s' =================
+=> Game 1
+=> Params: n: 8, p1: 'Artificial_Incompetence' (red), p2: 'Team_Joshua_s' (blue)
+=> Winner: Team_Joshua_s
+=> Game 2
+=> Params: n: 8, p1: 'Team_Joshua_s' (red), p2: 'Artificial_Incompetence' (blue)
+=> Winner: Team_Joshua_s
+=> Game 3
+=> Params: n: 9, p1: 'Artificial_Incompetence' (red), p2: 'Team_Joshua_s' (blue)
+=> Winner: Team_Joshua_s
+=> Game 4
+=> Params: n: 9, p1: 'Team_Joshua_s' (red), p2: 'Artificial_Incompetence' (blue)
+=> Winner: Team_Joshua_s
+=============================== Results summary ================================
+=> Wins 'Artificial_Incompetence' : 0
+=> Wins 'Team_Joshua_s'           : 4
+=> Total draws                    : 0
+=> Overall winner                 : Team_Joshua_s

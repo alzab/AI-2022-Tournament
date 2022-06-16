@@ -1,0 +1,22 @@
+Traceback (most recent call last):
+  File "/opt/rh/rh-python36/root/usr/lib64/python3.6/runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/opt/rh/rh-python36/root/usr/lib64/python3.6/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/__main__.py", line 3, in <module>
+    main()
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/main.py", line 53, in main
+    log_filename=options.logfile,
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/game.py", line 129, in play
+    raise e
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/game.py", line 121, in play
+    action = curr_player.action()
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/player.py", line 57, in action
+    action = self.player.action()
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/team349/player.py", line 37, in action
+    return self.move_strategy.move()
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/team349/move_util.py", line 221, in move
+    return self.opening_strategy()
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/team349/move_util.py", line 257, in opening_strategy
+    right = (opponent_hex[0]-1, opponent_hex[1])+1
+TypeError: can only concatenate tuple (not "int") to tuple

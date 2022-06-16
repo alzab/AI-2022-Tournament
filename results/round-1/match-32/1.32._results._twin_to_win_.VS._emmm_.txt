@@ -1,0 +1,21 @@
+==================== Cachex tournament - Round 1, Match 32 =====================
+=========================== 'twin_to_win' VS 'emmm' ============================
+=> Game 1
+=> Params: n: 8, p1: 'twin_to_win' (red), p2: 'emmm' (blue)
+=> Winner: twin_to_win
+=> Game 2
+=> Params: n: 8, p1: 'emmm' (red), p2: 'twin_to_win' (blue)
+error: blue: player 2 exceeded available time
+=> Winner: emmm
+=> Game 3
+=> Params: n: 9, p1: 'twin_to_win' (red), p2: 'emmm' (blue)
+error: red: player 1 exceeded available time
+=> Winner: emmm
+=> Game 4
+=> Params: n: 9, p1: 'emmm' (red), p2: 'twin_to_win' (blue)
+=> Winner: emmm
+=============================== Results summary ================================
+=> Wins 'twin_to_win' : 1
+=> Wins 'emmm'        : 3
+=> Total draws        : 0
+=> Overall winner     : emmm

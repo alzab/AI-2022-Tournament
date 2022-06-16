@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 59 =====================
+========================= 'random_group_22' VS 'range' =========================
+=> Game 1
+=> Params: n: 8, p1: 'random_group_22' (red), p2: 'range' (blue)
+=> Winner: range
+=> Game 2
+=> Params: n: 8, p1: 'range' (red), p2: 'random_group_22' (blue)
+=> Winner: range
+=> Game 3
+=> Params: n: 9, p1: 'random_group_22' (red), p2: 'range' (blue)
+=> Winner: range
+=> Game 4
+=> Params: n: 9, p1: 'range' (red), p2: 'random_group_22' (blue)
+=> Winner: range
+=============================== Results summary ================================
+=> Wins 'random_group_22' : 0
+=> Wins 'range'           : 4
+=> Total draws            : 0
+=> Overall winner         : range

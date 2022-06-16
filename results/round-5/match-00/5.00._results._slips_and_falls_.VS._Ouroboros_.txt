@@ -1,0 +1,23 @@
+==================== Cachex tournament - Round 5, Match 00 =====================
+======================= 'slips_and_falls' VS 'Ouroboros' =======================
+=> Game 1
+=> Params: n: 8, p1: 'slips_and_falls' (red), p2: 'Ouroboros' (blue)
+=> Winner: slips_and_falls
+=> Game 2
+=> Params: n: 8, p1: 'Ouroboros' (red), p2: 'slips_and_falls' (blue)
+=> Winner: Ouroboros
+=> Game 3
+=> Params: n: 9, p1: 'slips_and_falls' (red), p2: 'Ouroboros' (blue)
+draw: same game state occurred                 7 times
+=> Winner: None
+=> Game 4
+=> Params: n: 9, p1: 'Ouroboros' (red), p2: 'slips_and_falls' (blue)
+=> Winner: slips_and_falls
+=> Game t1
+=> Params: n: 7, p1: 'slips_and_falls' (red), p2: 'Ouroboros' (blue)
+=> Winner: slips_and_falls
+=============================== Results summary ================================
+=> Wins 'slips_and_falls' : 3
+=> Wins 'Ouroboros'       : 1
+=> Total draws            : 1
+=> Overall winner         : slips_and_falls

@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "/opt/rh/rh-python36/root/usr/lib64/python3.6/runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/opt/rh/rh-python36/root/usr/lib64/python3.6/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/__main__.py", line 3, in <module>
+    main()
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/main.py", line 53, in main
+    log_filename=options.logfile,
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/game.py", line 129, in play
+    raise e
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/game.py", line 121, in play
+    action = curr_player.action()
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/__referee/player.py", line 57, in action
+    action = self.player.action()
+  File "/silo-q01/users/a/alexanderz/AI/2022/ProjectPartB/tournament_v2/C_SQUARED/player.py", line 41, in action
+    num_in_search_radius = (3 * SEARCH_RADIUS * SEARCH_RADIUS + 3 * SEARCH_RADIUS + 1) * 2 + self.board["size"]
+TypeError: unsupported operand type(s) for +: 'int' and 'str'

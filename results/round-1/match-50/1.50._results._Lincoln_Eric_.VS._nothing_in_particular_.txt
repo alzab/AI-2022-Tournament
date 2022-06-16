@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 50 =====================
+================== 'Lincoln_Eric' VS 'nothing_in_particular' ===================
+=> Game 1
+=> Params: n: 8, p1: 'Lincoln_Eric' (red), p2: 'nothing_in_particular' (blue)
+=> Winner: nothing_in_particular
+=> Game 2
+=> Params: n: 8, p1: 'nothing_in_particular' (red), p2: 'Lincoln_Eric' (blue)
+=> Winner: nothing_in_particular
+=> Game 3
+=> Params: n: 9, p1: 'Lincoln_Eric' (red), p2: 'nothing_in_particular' (blue)
+=> Winner: nothing_in_particular
+=> Game 4
+=> Params: n: 9, p1: 'nothing_in_particular' (red), p2: 'Lincoln_Eric' (blue)
+=> Winner: nothing_in_particular
+=============================== Results summary ================================
+=> Wins 'Lincoln_Eric'          : 0
+=> Wins 'nothing_in_particular' : 4
+=> Total draws                  : 0
+=> Overall winner               : nothing_in_particular

@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 2, Match 31 =====================
+======================= 'Raymoni' VS 'irrationalAgents' ========================
+=> Game 1
+=> Params: n: 8, p1: 'Raymoni' (red), p2: 'irrationalAgents' (blue)
+=> Winner: irrationalAgents
+=> Game 2
+=> Params: n: 8, p1: 'irrationalAgents' (red), p2: 'Raymoni' (blue)
+=> Winner: irrationalAgents
+=> Game 3
+=> Params: n: 9, p1: 'Raymoni' (red), p2: 'irrationalAgents' (blue)
+=> Winner: irrationalAgents
+=> Game 4
+=> Params: n: 9, p1: 'irrationalAgents' (red), p2: 'Raymoni' (blue)
+=> Winner: irrationalAgents
+=============================== Results summary ================================
+=> Wins 'Raymoni'          : 0
+=> Wins 'irrationalAgents' : 4
+=> Total draws             : 0
+=> Overall winner          : irrationalAgents

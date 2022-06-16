@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 2, Match 14 =====================
+=========================== 'TBD' VS 'DarkSouls_AI' ============================
+=> Game 1
+=> Params: n: 8, p1: 'TBD' (red), p2: 'DarkSouls_AI' (blue)
+=> Winner: DarkSouls_AI
+=> Game 2
+=> Params: n: 8, p1: 'DarkSouls_AI' (red), p2: 'TBD' (blue)
+=> Winner: DarkSouls_AI
+=> Game 3
+=> Params: n: 9, p1: 'TBD' (red), p2: 'DarkSouls_AI' (blue)
+=> Winner: DarkSouls_AI
+=> Game 4
+=> Params: n: 9, p1: 'DarkSouls_AI' (red), p2: 'TBD' (blue)
+=> Winner: DarkSouls_AI
+=============================== Results summary ================================
+=> Wins 'TBD'          : 0
+=> Wins 'DarkSouls_AI' : 4
+=> Total draws         : 0
+=> Overall winner      : DarkSouls_AI

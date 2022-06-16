@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 2, Match 04 =====================
+====================== 'emotation_damage' VS 'Ouroboros' =======================
+=> Game 1
+=> Params: n: 8, p1: 'emotation_damage' (red), p2: 'Ouroboros' (blue)
+=> Winner: Ouroboros
+=> Game 2
+=> Params: n: 8, p1: 'Ouroboros' (red), p2: 'emotation_damage' (blue)
+=> Winner: Ouroboros
+=> Game 3
+=> Params: n: 9, p1: 'emotation_damage' (red), p2: 'Ouroboros' (blue)
+=> Winner: Ouroboros
+=> Game 4
+=> Params: n: 9, p1: 'Ouroboros' (red), p2: 'emotation_damage' (blue)
+=> Winner: Ouroboros
+=============================== Results summary ================================
+=> Wins 'emotation_damage' : 0
+=> Wins 'Ouroboros'        : 4
+=> Total draws             : 0
+=> Overall winner          : Ouroboros

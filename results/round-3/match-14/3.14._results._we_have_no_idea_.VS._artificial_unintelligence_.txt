@@ -1,0 +1,32 @@
+==================== Cachex tournament - Round 3, Match 14 =====================
+=============== 'we_have_no_idea' VS 'artificial_unintelligence' ===============
+=> Game 1
+=> Params: n: 8, p1: 'we_have_no_idea' (red), p2: 'artificial_unintelligence'
+   (blue)
+=> Winner: we_have_no_idea
+=> Game 2
+=> Params: n: 8, p1: 'artificial_unintelligence' (red), p2: 'we_have_no_idea'
+   (blue)
+=> Winner: artificial_unintelligence
+=> Game 3
+=> Params: n: 9, p1: 'we_have_no_idea' (red), p2: 'artificial_unintelligence'
+   (blue)
+error: blue: player 2 exceeded available time
+=> Winner: we_have_no_idea
+=> Game 4
+=> Params: n: 9, p1: 'artificial_unintelligence' (red), p2: 'we_have_no_idea'
+   (blue)
+=> Winner: artificial_unintelligence
+=> Game t1
+=> Params: n: 7, p1: 'we_have_no_idea' (red), p2: 'artificial_unintelligence'
+   (blue)
+=> Winner: we_have_no_idea
+=> Game t2
+=> Params: n: 7, p1: 'artificial_unintelligence' (red), p2: 'we_have_no_idea'
+   (blue)
+=> Winner: we_have_no_idea
+=============================== Results summary ================================
+=> Wins 'we_have_no_idea'           : 4
+=> Wins 'artificial_unintelligence' : 2
+=> Total draws                      : 0
+=> Overall winner                   : we_have_no_idea

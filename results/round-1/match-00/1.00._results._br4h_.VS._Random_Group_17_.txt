@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 1, Match 00 =====================
+========================= 'br4h' VS 'Random_Group_17' ==========================
+=> Game 1
+=> Params: n: 8, p1: 'br4h' (red), p2: 'Random_Group_17' (blue)
+=> Winner: Random_Group_17
+=> Game 2
+=> Params: n: 8, p1: 'Random_Group_17' (red), p2: 'br4h' (blue)
+=> Winner: Random_Group_17
+=> Game 3
+=> Params: n: 9, p1: 'br4h' (red), p2: 'Random_Group_17' (blue)
+=> Winner: Random_Group_17
+=> Game 4
+=> Params: n: 9, p1: 'Random_Group_17' (red), p2: 'br4h' (blue)
+=> Winner: br4h
+=============================== Results summary ================================
+=> Wins 'br4h'            : 1
+=> Wins 'Random_Group_17' : 3
+=> Total draws            : 0
+=> Overall winner         : Random_Group_17

@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 3, Match 09 =====================
+========================== 'oligey' VS 'hungry_jacks' ==========================
+=> Game 1
+=> Params: n: 8, p1: 'oligey' (red), p2: 'hungry_jacks' (blue)
+=> Winner: hungry_jacks
+=> Game 2
+=> Params: n: 8, p1: 'hungry_jacks' (red), p2: 'oligey' (blue)
+=> Winner: oligey
+=> Game 3
+=> Params: n: 9, p1: 'oligey' (red), p2: 'hungry_jacks' (blue)
+=> Winner: hungry_jacks
+=> Game 4
+=> Params: n: 9, p1: 'hungry_jacks' (red), p2: 'oligey' (blue)
+=> Winner: hungry_jacks
+=============================== Results summary ================================
+=> Wins 'oligey'       : 1
+=> Wins 'hungry_jacks' : 3
+=> Total draws         : 0
+=> Overall winner      : hungry_jacks

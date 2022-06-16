@@ -1,0 +1,32 @@
+turn 1: red: PLACE token in cell (0, 4); dt:1.4795000000011882e-05
+turn 2: blue: STEAL first move; dt:0.0024430290000000132
+turn 3: red: PLACE token in cell (4, 4); dt:2.327700000001598e-05
+turn 4: blue: PLACE token in cell (4, 1); dt:0.04555926299999999
+turn 5: red: PLACE token in cell (3, 2); dt:7.395809762000001
+turn 6: blue: PLACE token in cell (4, 2); dt:0.04943958299999984
+turn 7: red: PLACE token in cell (5, 1); dt:10.338798387
+turn 8: blue: PLACE token in cell (4, 1); dt:0.08608994699999784
+turn 9: red: PLACE token in cell (5, 0); dt:13.254041228999998
+turn 10: blue: PLACE token in cell (4, 2); dt:0.09615524200000178
+turn 11: red: PLACE token in cell (3, 1); dt:0.7466720690000024
+turn 12: blue: PLACE token in cell (5, 1); dt:0.09859633499999632
+turn 13: red: PLACE token in cell (6, 0); dt:1.0746467770000052
+turn 14: blue: PLACE token in cell (4, 3); dt:0.14507846600000107
+turn 15: red: PLACE token in cell (7, 0); dt:0.9460271589999962
+turn 16: blue: PLACE token in cell (3, 4); dt:0.1406291309999972
+turn 17: red: PLACE token in cell (3, 3); dt:1.1909331069999993
+turn 18: blue: PLACE token in cell (4, 3); dt:0.1574760640000008
+turn 19: red: PLACE token in cell (5, 2); dt:1.1900784850000008
+turn 20: blue: PLACE token in cell (6, 1); dt:0.10358346699999998
+turn 21: red: PLACE token in cell (6, 0); dt:1.6493517880000041
+turn 22: blue: PLACE token in cell (5, 2); dt:0.1377606360000031
+turn 23: red: PLACE token in cell (8, 0); dt:1.3257294799999997
+turn 24: blue: PLACE token in cell (4, 3); dt:0.18010434600000025
+turn 25: red: PLACE token in cell (4, 0); dt:1.1463265910000047
+turn 26: blue: PLACE token in cell (4, 5); dt:0.1500404939999953
+turn 27: red: PLACE token in cell (2, 2); dt:1.3047900399999932
+turn 28: blue: PLACE token in cell (4, 6); dt:0.23667531899999972
+turn 29: red: PLACE token in cell (1, 3); dt:1.7464872380000003
+turn 30: blue: PLACE token in cell (4, 7); dt:0.2485549969999994
+turn 31: red: PLACE token in cell (0, 4); dt:2.2178085060000043
+winner: red

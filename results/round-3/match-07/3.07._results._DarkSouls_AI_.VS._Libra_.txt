@@ -1,0 +1,19 @@
+==================== Cachex tournament - Round 3, Match 07 =====================
+========================== 'DarkSouls_AI' VS 'Libra' ===========================
+=> Game 1
+=> Params: n: 8, p1: 'DarkSouls_AI' (red), p2: 'Libra' (blue)
+=> Winner: DarkSouls_AI
+=> Game 2
+=> Params: n: 8, p1: 'Libra' (red), p2: 'DarkSouls_AI' (blue)
+=> Winner: DarkSouls_AI
+=> Game 3
+=> Params: n: 9, p1: 'DarkSouls_AI' (red), p2: 'Libra' (blue)
+=> Winner: Libra
+=> Game 4
+=> Params: n: 9, p1: 'Libra' (red), p2: 'DarkSouls_AI' (blue)
+=> Winner: DarkSouls_AI
+=============================== Results summary ================================
+=> Wins 'DarkSouls_AI' : 3
+=> Wins 'Libra'        : 1
+=> Total draws         : 0
+=> Overall winner      : DarkSouls_AI
