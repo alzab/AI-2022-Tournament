@@ -83,13 +83,13 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 #bracket-container {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.vtb-item-players {
+>>> .vtb-item-players {
   flex-direction: column;
   background-color: #ccc;
   min-width: 200px;
@@ -98,13 +98,13 @@ export default {
   font-style: oblique;
   border: 3px #000 solid;
 }
-.vtb-item-players .winner {
+>>> .vtb-item-players .winner {
   color: #000;
   font-weight: bold;
   font-style: normal;
   background-color: rgba(14, 190, 49, 0.5);
 }
-.vtb-item-players .defeated {
+>>> .vtb-item-players .defeated {
   color: gray;
   background-color: lightgray;
   background: repeating-linear-gradient(
@@ -117,10 +117,10 @@ export default {
   font-style: normal;
   text-decoration: line-through;
 }
-.vtb-item-players .winner.highlight {
+>>> .vtb-item-players .winner.highlight {
   background-color: rgb(36, 175, 87);
 }
-.vtb-item-players .defeated.highlight {
+>>> .vtb-item-players .defeated.highlight {
   color: #000;
 }
 </style>
